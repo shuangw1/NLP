@@ -1,0 +1,1877 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd" version="1.1">
+  <meta lastmodifieddate="2021-05-13">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="s" label="s" />
+      <node id="e" label="e" />
+      <node id="a" label="a" />
+      <node id="t" label="t" />
+      <node id="l" label="l" />
+      <node id="j" label="j" />
+      <node id="u" label="u" />
+      <node id="n" label="n" />
+      <node id="seattle" label="seattle" />
+      <node id="june" label="june" />
+      <node id="y" label="y" />
+      <node id="july" label="july" />
+      <node id="m" label="m" />
+      <node id="may" label="may" />
+      <node id="r" label="r" />
+      <node id="c" label="c" />
+      <node id="h" label="h" />
+      <node id="march" label="march" />
+      <node id="p" label="p" />
+      <node id="sept" label="sept" />
+      <node id="b" label="b" />
+      <node id="d" label="d" />
+      <node id="v" label="v" />
+      <node id="o" label="o" />
+      <node id="advocate" label="advocate" />
+      <node id="nov" label="nov" />
+      <node id="oct" label="oct" />
+      <node id="g" label="g" />
+      <node id="aug" label="aug" />
+      <node id="apr" label="apr" />
+      <node id="sun" label="sun" />
+      <node id="f" label="f" />
+      <node id="feb" label="feb" />
+      <node id="see" label="see" />
+      <node id="dec" label="dec" />
+      <node id="i" label="i" />
+      <node id="headlined" label="headlined" />
+      <node id="intelligencer" label="intelligencer" />
+      <node id="pride" label="pride" />
+      <node id="titled" label="titled" />
+      <node id="times" label="times" />
+      <node id="w" label="w" />
+      <node id="news" label="news" />
+      <node id="letter" label="letter" />
+      <node id="story" label="story" />
+      <node id="k" label="k" />
+      <node id="week" label="week" />
+      <node id="gay" label="gay" />
+      <node id="resource" label="resource" />
+      <node id="center" label="center" />
+      <node id="lesbian" label="lesbian" />
+      <node id="community" label="community" />
+      <node id="activists" label="activists" />
+      <node id="history" label="history" />
+      <node id="museum" label="museum" />
+      <node id="becomes" label="becomes" />
+      <node id="project" label="project" />
+      <node id="transgender" label="transgender" />
+      <node id="northwest" label="northwest" />
+      <node id="nication" label="nication" />
+      <node id="liberation" label="liberation" />
+      <node id="parade" label="parade" />
+      <node id="charna" label="charna" />
+      <node id="infrastructure" label="infrastructure" />
+      <node id="foundation" label="foundation" />
+      <node id="constructing" label="constructing" />
+      <node id="communication" label="communication" />
+      <node id="metropolitan" label="metropolitan" />
+      <node id="consumers" label="consumers" />
+      <node id="munity" label="munity" />
+      <node id="x" label="x" />
+      <node id="sexy" label="sexy" />
+      <node id="iii" label="iii" />
+      <node id="openly" label="openly" />
+      <node id="aids" label="aids" />
+      <node id="progress" label="progress" />
+      <node id="editor" label="editor" />
+      <node id="http" label="http" />
+      <node id="theatre" label="theatre" />
+      <node id="seekers" label="seekers" />
+      <node id="obituary" label="obituary" />
+      <node id="untitled" label="untitled" />
+      <node id="coverage" label="coverage" />
+      <node id="z" label="z" />
+      <node id="magazine" label="magazine" />
+      <node id="men" label="men" />
+      <node id="women" label="women" />
+      <node id="bars" label="bars" />
+      <node id="dance" label="dance" />
+      <node id="spray" label="spray" />
+      <node id="bar" label="bar" />
+      <node id="many" label="many" />
+      <node id="tina" label="tina" />
+      <node id="annex" label="annex" />
+      <node id="presence" label="presence" />
+      <node id="radical" label="radical" />
+      <node id="aboveground" label="aboveground" />
+      <node id="male" label="male" />
+      <node id="separatist" label="separatist" />
+      <node id="among" label="among" />
+      <node id="lobbyists" label="lobbyists" />
+      <node id="way" label="way" />
+      <node id="extended" label="extended" />
+      <node id="separatists" label="separatists" />
+      <node id="oppressed" label="oppressed" />
+      <node id="explore" label="explore" />
+      <node id="police" label="police" />
+      <node id="chief" label="chief" />
+      <node id="cer" label="cer" />
+      <node id="tielsch" label="tielsch" />
+      <node id="ramon" label="ramon" />
+      <node id="cers" label="cers" />
+      <node id="suspended" label="suspended" />
+      <node id="insanity" label="insanity" />
+      <node id="month" label="month" />
+      <node id="payo" label="payo" />
+      <node id="told" label="told" />
+      <node id="earl" label="earl" />
+      <node id="reporter" label="reporter" />
+      <node id="rotten" label="rotten" />
+      <node id="hunthausen" label="hunthausen" />
+      <node id="phoned" label="phoned" />
+      <node id="farmer" label="farmer" />
+      <node id="wilson" label="wilson" />
+      <node id="bedrooms" label="bedrooms" />
+      <node id="payoffs" label="payoffs" />
+      <node id="prather" label="prather" />
+      <node id="surgery" label="surgery" />
+      <node id="maciver" label="maciver" />
+      <node id="chiefs" label="chiefs" />
+      <node id="wells" label="wells" />
+      <node id="department" label="department" />
+      <node id="washington" label="washington" />
+      <node id="papers" label="papers" />
+      <node id="state" label="state" />
+      <node id="collections" label="collections" />
+      <node id="university" label="university" />
+      <node id="western" label="western" />
+      <node id="historical" label="historical" />
+      <node id="libraries" label="libraries" />
+      <node id="supreme" label="supreme" />
+      <node id="district" label="district" />
+      <node id="archives" label="archives" />
+      <node id="special" label="special" />
+      <node id="amend" label="amend" />
+      <node id="mscua" label="mscua" />
+      <node id="press" label="press" />
+      <node id="uw" label="uw" />
+      <node id="mayors" label="mayors" />
+      <node id="senate" label="senate" />
+      <node id="doss" label="doss" />
+      <node id="rhay" label="rhay" />
+      <node id="columbia" label="columbia" />
+      <node id="tacoma" label="tacoma" />
+      <node id="representatives" label="representatives" />
+      <node id="andrews" label="andrews" />
+      <node id="wn" label="wn" />
+      <node id="political" label="political" />
+      <node id="city" label="city" />
+      <node id="feminist" label="feminist" />
+      <node id="created" label="created" />
+      <node id="bians" label="bians" />
+      <node id="struggled" label="struggled" />
+      <node id="minorities" label="minorities" />
+      <node id="odds" label="odds" />
+      <node id="public" label="public" />
+      <node id="people" label="people" />
+      <node id="know" label="know" />
+      <node id="like" label="like" />
+      <node id="one" label="one" />
+      <node id="said" label="said" />
+      <node id="another" label="another" />
+      <node id="even" label="even" />
+      <node id="going" label="going" />
+      <node id="wanted" label="wanted" />
+      <node id="mac" label="mac" />
+      <node id="sex" label="sex" />
+      <node id="ing" label="ing" />
+      <node id="care" label="care" />
+      <node id="discover" label="discover" />
+      <node id="get" label="get" />
+      <node id="much" label="much" />
+      <node id="together" label="together" />
+      <node id="person" label="person" />
+      <node id="felt" label="felt" />
+      <node id="long" label="long" />
+      <node id="say" label="say" />
+      <node id="got" label="got" />
+      <node id="still" label="still" />
+      <node id="might" label="might" />
+      <node id="whether" label="whether" />
+      <node id="come" label="come" />
+      <node id="homosexuals" label="homosexuals" />
+      <node id="heterosexuals" label="heterosexuals" />
+      <node id="insiders" label="insiders" />
+      <node id="accommodations" label="accommodations" />
+      <node id="discrimination" label="discrimination" />
+      <node id="jobs" label="jobs" />
+      <node id="visible" label="visible" />
+      <node id="identities" label="identities" />
+      <node id="forge" label="forge" />
+      <node id="outlawed" label="outlawed" />
+      <node id="prohibiting" label="prohibiting" />
+      <node id="argued" label="argued" />
+      <node id="granting" label="granting" />
+      <node id="rhetoric" label="rhetoric" />
+      <node id="social" label="social" />
+      <node id="q" label="q" />
+      <node id="equal" label="equal" />
+      <node id="discourse" label="discourse" />
+      <node id="shanti" label="shanti" />
+      <node id="hall" label="hall" />
+      <node id="law" label="law" />
+      <node id="sodomy" label="sodomy" />
+      <node id="repealed" label="repealed" />
+      <node id="legislature" label="legislature" />
+      <node id="passage" label="passage" />
+      <node id="laws" label="laws" />
+      <node id="repeal" label="repeal" />
+      <node id="malicious" label="malicious" />
+      <node id="investigated" label="investigated" />
+      <node id="currently" label="currently" />
+      <node id="diversity" label="diversity" />
+      <node id="enforcement" label="enforcement" />
+      <node id="code" label="code" />
+      <node id="penitentiary" label="penitentiary" />
+      <node id="criminal" label="criminal" />
+      <node id="antidiscrimination" label="antidiscrimination" />
+      <node id="hospital" label="hospital" />
+      <node id="rights" label="rights" />
+      <node id="forbidding" label="forbidding" />
+      <node id="liberties" label="liberties" />
+      <node id="bill" label="bill" />
+      <node id="protects" label="protects" />
+      <node id="civil" label="civil" />
+      <node id="protections" label="protections" />
+      <node id="opposing" label="opposing" />
+      <node id="commission" label="commission" />
+      <node id="movement" label="movement" />
+      <node id="anti" label="anti" />
+      <node id="crafted" label="crafted" />
+      <node id="marches" label="marches" />
+      <node id="protecting" label="protecting" />
+      <node id="retreated" label="retreated" />
+      <node id="council" label="council" />
+      <node id="seldom" label="seldom" />
+      <node id="group" label="group" />
+      <node id="human" label="human" />
+      <node id="basic" label="basic" />
+      <node id="omnibus" label="omnibus" />
+      <node id="bateman" label="bateman" />
+      <node id="daily" label="daily" />
+      <node id="society" label="society" />
+      <node id="oklahoma" label="oklahoma" />
+      <node id="campus" label="campus" />
+      <node id="counseling" label="counseling" />
+      <node id="festival" label="festival" />
+      <node id="pm" label="pm" />
+      <node id="alliance" label="alliance" />
+      <node id="industry" label="industry" />
+      <node id="could" label="could" />
+      <node id="feel" label="feel" />
+      <node id="make" label="make" />
+      <node id="help" label="help" />
+      <node id="heterosexual" label="heterosexual" />
+      <node id="homosexual" label="homosexual" />
+      <node id="life" label="life" />
+      <node id="claiming" label="claiming" />
+      <node id="civic" label="civic" />
+      <node id="nobody" label="nobody" />
+      <node id="conversation" label="conversation" />
+      <node id="contribution" label="contribution" />
+      <node id="rules" label="rules" />
+      <node id="sation" label="sation" />
+      <node id="conver" label="conver" />
+      <node id="chautauquas" label="chautauquas" />
+      <node id="intensely" label="intensely" />
+      <node id="praying" label="praying" />
+      <node id="dealt" label="dealt" />
+      <node id="wheelchair" label="wheelchair" />
+      <node id="endorse" label="endorse" />
+      <node id="walks" label="walks" />
+      <node id="pe" label="pe" />
+      <node id="feminism" label="feminism" />
+      <node id="landscape" label="landscape" />
+      <node id="ufaf" label="ufaf" />
+      <node id="lesbianism" label="lesbianism" />
+      <node id="widespread" label="widespread" />
+      <node id="fragile" label="fragile" />
+      <node id="imag" label="imag" />
+      <node id="imaginative" label="imaginative" />
+      <node id="sexual" label="sexual" />
+      <node id="orientation" label="orientation" />
+      <node id="preventing" label="preventing" />
+      <node id="exile" label="exile" />
+      <node id="effect" label="effect" />
+      <node id="homo" label="homo" />
+      <node id="majority" label="majority" />
+      <node id="sexuals" label="sexuals" />
+      <node id="inclusion" label="inclusion" />
+      <node id="protection" label="protection" />
+      <node id="discriminating" label="discriminating" />
+      <node id="prologue" label="prologue" />
+      <node id="race" label="race" />
+      <node id="governing" label="governing" />
+      <node id="american" label="american" />
+      <node id="vague" label="vague" />
+      <node id="support" label="support" />
+      <node id="socialist" label="socialist" />
+      <node id="visibility" label="visibility" />
+      <node id="part" label="part" />
+      <node id="awareness" label="awareness" />
+      <node id="politics" label="politics" />
+      <node id="passionately" label="passionately" />
+      <node id="citizens" label="citizens" />
+      <node id="became" label="became" />
+      <node id="struggle" label="struggle" />
+      <node id="hill" label="hill" />
+      <node id="informally" label="informally" />
+      <node id="church" label="church" />
+      <node id="catholic" label="catholic" />
+      <node id="renton" label="renton" />
+      <node id="capitol" label="capitol" />
+      <node id="south" label="south" />
+      <node id="slope" label="slope" />
+      <node id="summit" label="summit" />
+      <node id="st" label="st" />
+      <node id="hills" label="hills" />
+      <node id="sixteenth" label="sixteenth" />
+      <node id="heavily" label="heavily" />
+      <node id="clash" label="clash" />
+      <node id="avenue" label="avenue" />
+      <node id="fifteenth" label="fifteenth" />
+      <node id="rambling" label="rambling" />
+      <node id="den" label="den" />
+      <node id="methodists" label="methodists" />
+      <node id="commerce" label="commerce" />
+      <node id="trolley" label="trolley" />
+      <node id="north" label="north" />
+      <node id="advance" label="advance" />
+      <node id="chapel" label="chapel" />
+      <node id="cathedral" label="cathedral" />
+      <node id="atop" label="atop" />
+      <node id="aquarian" label="aquarian" />
+      <node id="protestant" label="protestant" />
+      <node id="dignity" label="dignity" />
+      <node id="endorsed" label="endorsed" />
+      <node id="downtown" label="downtown" />
+      <node id="methodist" label="methodist" />
+      <node id="ministry" label="ministry" />
+      <node id="cath" label="cath" />
+      <node id="broadway" label="broadway" />
+      <node id="joseph" label="joseph" />
+      <node id="mass" label="mass" />
+      <node id="ruppert" label="ruppert" />
+      <node id="moving" label="moving" />
+      <node id="mile" label="mile" />
+      <node id="chamber" label="chamber" />
+      <node id="stan" label="stan" />
+      <node id="geographic" label="geographic" />
+      <node id="headline" label="headline" />
+      <node id="seattlepi" label="seattlepi" />
+      <node id="unfolding" label="unfolding" />
+      <node id="reported" label="reported" />
+      <node id="unprecedented" label="unprecedented" />
+      <node id="ostrom" label="ostrom" />
+      <node id="vatican" label="vatican" />
+      <node id="published" label="published" />
+      <node id="diary" label="diary" />
+      <node id="patti" label="patti" />
+      <node id="arti" label="arti" />
+      <node id="gazette" label="gazette" />
+      <node id="jan" label="jan" />
+      <node id="court" label="court" />
+      <node id="superior" label="superior" />
+      <node id="county" label="county" />
+      <node id="appearances" label="appearances" />
+      <node id="records" label="records" />
+      <node id="docket" label="docket" />
+      <node id="appeals" label="appeals" />
+      <node id="king" label="king" />
+      <node id="dockets" label="dockets" />
+      <node id="case" label="case" />
+      <node id="judge" label="judge" />
+      <node id="documents" label="documents" />
+      <node id="sasha" label="sasha" />
+      <node id="man" label="man" />
+      <node id="woman" label="woman" />
+      <node id="night" label="night" />
+      <node id="time" label="time" />
+      <node id="back" label="back" />
+      <node id="mckay" label="mckay" />
+      <node id="pair" label="pair" />
+      <node id="lou" label="lou" />
+      <node id="young" label="young" />
+      <node id="show" label="show" />
+      <node id="let" label="let" />
+      <node id="went" label="went" />
+      <node id="reporters" label="reporters" />
+      <node id="friend" label="friend" />
+      <node id="arresting" label="arresting" />
+      <node id="cop" label="cop" />
+      <node id="scene" label="scene" />
+      <node id="think" label="think" />
+      <node id="says" label="says" />
+      <node id="came" label="came" />
+      <node id="operators" label="operators" />
+      <node id="identification" label="identification" />
+      <node id="met" label="met" />
+      <node id="according" label="according" />
+      <node id="steven" label="steven" />
+      <node id="preparing" label="preparing" />
+      <node id="september" label="september" />
+      <node id="frances" label="frances" />
+      <node id="diagnosed" label="diagnosed" />
+      <node id="keith" label="keith" />
+      <node id="cook" label="cook" />
+      <node id="inquest" label="inquest" />
+      <node id="prosecutor" label="prosecutor" />
+      <node id="january" label="january" />
+      <node id="arrived" label="arrived" />
+      <node id="described" label="described" />
+      <node id="yelling" label="yelling" />
+      <node id="confidential" label="confidential" />
+      <node id="october" label="october" />
+      <node id="tested" label="tested" />
+      <node id="prison" label="prison" />
+      <node id="released" label="released" />
+      <node id="tests" label="tests" />
+      <node id="jurors" label="jurors" />
+      <node id="find" label="find" />
+      <node id="seemed" label="seemed" />
+      <node id="kind" label="kind" />
+      <node id="safe" label="safe" />
+      <node id="talk" label="talk" />
+      <node id="really" label="really" />
+      <node id="never" label="never" />
+      <node id="family" label="family" />
+      <node id="particular" label="particular" />
+      <node id="things" label="things" />
+      <node id="boys" label="boys" />
+      <node id="places" label="places" />
+      <node id="enough" label="enough" />
+      <node id="encounters" label="encounters" />
+      <node id="often" label="often" />
+      <node id="best" label="best" />
+      <node id="proved" label="proved" />
+      <node id="schoenberg" label="schoenberg" />
+      <node id="interview" label="interview" />
+      <node id="pettis" label="pettis" />
+      <node id="enjoy" label="enjoy" />
+      <node id="groups" label="groups" />
+      <node id="dorian" label="dorian" />
+      <node id="brydon" label="brydon" />
+      <node id="charlie" label="charlie" />
+      <node id="service" label="service" />
+      <node id="criticized" label="criticized" />
+      <node id="coalition" label="coalition" />
+      <node id="new" label="new" />
+      <node id="association" label="association" />
+      <node id="emergence" label="emergence" />
+      <node id="members" label="members" />
+      <node id="lobby" label="lobby" />
+      <node id="legislator" label="legislator" />
+      <node id="subculture" label="subculture" />
+      <node id="adjust" label="adjust" />
+      <node id="preserve" label="preserve" />
+      <node id="well" label="well" />
+      <node id="organizing" label="organizing" />
+      <node id="therefore" label="therefore" />
+      <node id="ads" label="ads" />
+      <node id="femi" label="femi" />
+      <node id="separatism" label="separatism" />
+      <node id="amazon" label="amazon" />
+      <node id="working" label="working" />
+      <node id="socialists" label="socialists" />
+      <node id="organization" label="organization" />
+      <node id="fervent" label="fervent" />
+      <node id="supportive" label="supportive" />
+      <node id="completely" label="completely" />
+      <node id="outside" label="outside" />
+      <node id="organizations" label="organizations" />
+      <node id="neither" label="neither" />
+      <node id="bian" label="bian" />
+      <node id="services" label="services" />
+      <node id="nazi" label="nazi" />
+      <node id="begun" label="begun" />
+      <node id="struggling" label="struggling" />
+      <node id="youth" label="youth" />
+      <node id="freedom" label="freedom" />
+      <node id="health" label="health" />
+      <node id="mental" label="mental" />
+      <node id="warren" label="warren" />
+      <node id="dade" label="dade" />
+      <node id="margaret" label="margaret" />
+      <node id="boss" label="boss" />
+      <node id="board" label="board" />
+      <node id="municipal" label="municipal" />
+      <node id="tv" label="tv" />
+      <node id="whatsoever" label="whatsoever" />
+      <node id="imperial" label="imperial" />
+      <node id="intractable" label="intractable" />
+      <node id="disorders" label="disorders" />
+      <node id="institute" label="institute" />
+      <node id="psychosurgery" label="psychosurgery" />
+      <node id="tim" label="tim" />
+      <node id="anne" label="anne" />
+      <node id="tensions" label="tensions" />
+      <node id="east" label="east" />
+      <node id="crossed" label="crossed" />
+      <node id="minority" label="minority" />
+      <node id="protect" label="protect" />
+      <node id="statewide" label="statewide" />
+      <node id="become" label="become" />
+      <node id="began" label="began" />
+      <node id="known" label="known" />
+      <node id="feminists" label="feminists" />
+      <node id="nized" label="nized" />
+      <node id="meet" label="meet" />
+      <node id="leadership" label="leadership" />
+      <node id="hoped" label="hoped" />
+      <node id="symbol" label="symbol" />
+      <node id="areas" label="areas" />
+      <node id="role" label="role" />
+      <node id="reality" label="reality" />
+      <node id="brand" label="brand" />
+      <node id="territory" label="territory" />
+      <node id="early" label="early" />
+      <node id="consciousness" label="consciousness" />
+      <node id="geography" label="geography" />
+      <node id="refuge" label="refuge" />
+      <node id="celibate" label="celibate" />
+      <node id="yasinin" label="yasinin" />
+      <node id="mayor" label="mayor" />
+      <node id="leaders" label="leaders" />
+      <node id="columns" label="columns" />
+      <node id="atkins" label="atkins" />
+      <node id="karen" label="karen" />
+      <node id="anderson" label="anderson" />
+      <node id="insult" label="insult" />
+      <node id="mainstream" label="mainstream" />
+      <node id="flint" label="flint" />
+      <node id="interviews" label="interviews" />
+      <node id="london" label="london" />
+      <node id="kopay" label="kopay" />
+      <node id="conference" label="conference" />
+      <node id="newsletter" label="newsletter" />
+      <node id="david" label="david" />
+      <node id="media" label="media" />
+      <node id="goes" label="goes" />
+      <node id="john" label="john" />
+      <node id="james" label="james" />
+      <node id="comes" label="comes" />
+      <node id="priest" label="priest" />
+      <node id="tra" label="tra" />
+      <node id="named" label="named" />
+      <node id="morgan" label="morgan" />
+      <node id="brown" label="brown" />
+      <node id="sent" label="sent" />
+      <node id="store" label="store" />
+      <node id="marks" label="marks" />
+      <node id="catwalk" label="catwalk" />
+      <node id="ed" label="ed" />
+      <node id="joe" label="joe" />
+      <node id="terry" label="terry" />
+      <node id="autobiography" label="autobiography" />
+      <node id="wuerl" label="wuerl" />
+      <node id="elliott" label="elliott" />
+      <node id="monastery" label="monastery" />
+      <node id="relevant" label="relevant" />
+      <node id="gaspard" label="gaspard" />
+      <node id="singular" label="singular" />
+      <node id="moments" label="moments" />
+      <node id="hearing" label="hearing" />
+      <node id="uphold" label="uphold" />
+      <node id="journal" label="journal" />
+      <node id="pete" label="pete" />
+      <node id="eastern" label="eastern" />
+      <node id="initiative" label="initiative" />
+      <node id="thirteen" label="thirteen" />
+      <node id="campaign" label="campaign" />
+      <node id="ordinance" label="ordinance" />
+      <node id="issue" label="issue" />
+      <node id="clout" label="clout" />
+      <node id="speech" label="speech" />
+      <node id="ini" label="ini" />
+      <node id="retain" label="retain" />
+      <node id="employment" label="employment" />
+      <node id="await" label="await" />
+      <node id="example" label="example" />
+      <node id="protest" label="protest" />
+      <node id="bruce" label="bruce" />
+      <node id="following" label="following" />
+      <node id="cial" label="cial" />
+      <node id="casey" label="casey" />
+      <node id="victory" label="victory" />
+      <node id="caitlin" label="caitlin" />
+      <node id="revealed" label="revealed" />
+      <node id="fountain" label="fountain" />
+      <node id="ad" label="ad" />
+      <node id="letters" label="letters" />
+      <node id="hannan" label="hannan" />
+      <node id="clinic" label="clinic" />
+      <node id="starting" label="starting" />
+      <node id="sheer" label="sheer" />
+      <node id="thank" label="thank" />
+      <node id="bakan" label="bakan" />
+      <node id="protests" label="protests" />
+      <node id="leader" label="leader" />
+      <node id="warning" label="warning" />
+      <node id="publishing" label="publishing" />
+      <node id="seamec" label="seamec" />
+      <node id="written" label="written" />
+      <node id="orme" label="orme" />
+      <node id="miami" label="miami" />
+      <node id="celebrations" label="celebrations" />
+      <node id="housing" label="housing" />
+      <node id="catholics" label="catholics" />
+      <node id="present" label="present" />
+      <node id="organized" label="organized" />
+      <node id="conflicts" label="conflicts" />
+      <node id="packed" label="packed" />
+      <node id="house" label="house" />
+      <node id="senator" label="senator" />
+      <node id="liquor" label="liquor" />
+      <node id="states" label="states" />
+      <node id="francis" label="francis" />
+      <node id="amusement" label="amusement" />
+      <node id="walla" label="walla" />
+      <node id="study" label="study" />
+      <node id="gaylord" label="gaylord" />
+      <node id="engineered" label="engineered" />
+      <node id="degree" label="degree" />
+      <node id="mcdermott" label="mcdermott" />
+      <node id="sen" label="sen" />
+      <node id="inspectors" label="inspectors" />
+      <node id="cotterill" label="cotterill" />
+      <node id="judiciary" label="judiciary" />
+      <node id="adopted" label="adopted" />
+      <node id="signed" label="signed" />
+    </nodes>
+    <edges>
+      <edge source="seattle" target="june" id="0" weight="0.9499093890190125" />
+      <edge source="seattle" target="july" id="1" weight="0.9376426935195923" />
+      <edge source="seattle" target="may" id="2" weight="0.9340851902961731" />
+      <edge source="seattle" target="march" id="3" weight="0.9298530220985413" />
+      <edge source="seattle" target="sept" id="4" weight="0.9251317977905273" />
+      <edge source="seattle" target="b" id="5" weight="0.9240891933441162" />
+      <edge source="seattle" target="advocate" id="6" weight="0.9229421615600586" />
+      <edge source="seattle" target="nov" id="7" weight="0.9142131209373474" />
+      <edge source="seattle" target="oct" id="8" weight="0.9113170504570007" />
+      <edge source="seattle" target="aug" id="9" weight="0.8998010158538818" />
+      <edge source="seattle" target="apr" id="10" weight="0.8986511826515198" />
+      <edge source="seattle" target="sun" id="11" weight="0.8966935276985168" />
+      <edge source="seattle" target="feb" id="12" weight="0.8934125304222107" />
+      <edge source="seattle" target="see" id="13" weight="0.8830084204673767" />
+      <edge source="seattle" target="dec" id="14" weight="0.8796091675758362" />
+      <edge source="seattle" target="headlined" id="15" weight="0.8794496655464172" />
+      <edge source="seattle" target="intelligencer" id="16" weight="0.878049373626709" />
+      <edge source="seattle" target="pride" id="17" weight="0.8767141699790955" />
+      <edge source="seattle" target="titled" id="18" weight="0.8754417896270752" />
+      <edge source="seattle" target="c" id="19" weight="0.8706563115119934" />
+      <edge source="seattle" target="times" id="20" weight="0.8703998327255249" />
+      <edge source="seattle" target="news" id="21" weight="0.8629773259162903" />
+      <edge source="seattle" target="letter" id="22" weight="0.8619512319564819" />
+      <edge source="seattle" target="story" id="23" weight="0.8594138026237488" />
+      <edge source="seattle" target="week" id="24" weight="0.855995237827301" />
+      <edge source="june" target="advocate" id="25" weight="0.9909701347351074" />
+      <edge source="june" target="may" id="26" weight="0.9870335459709167" />
+      <edge source="june" target="march" id="27" weight="0.9865723848342896" />
+      <edge source="june" target="july" id="28" weight="0.9863263964653015" />
+      <edge source="june" target="b" id="29" weight="0.9812279343605042" />
+      <edge source="june" target="sun" id="30" weight="0.9757202863693237" />
+      <edge source="june" target="nov" id="31" weight="0.9742130637168884" />
+      <edge source="june" target="oct" id="32" weight="0.9702887535095215" />
+      <edge source="june" target="sept" id="33" weight="0.9693042635917664" />
+      <edge source="june" target="feb" id="34" weight="0.9665274620056152" />
+      <edge source="june" target="aug" id="35" weight="0.9642171263694763" />
+      <edge source="june" target="apr" id="36" weight="0.9603695273399353" />
+      <edge source="june" target="see" id="37" weight="0.952396810054779" />
+      <edge source="june" target="seattle" id="38" weight="0.9499093890190125" />
+      <edge source="june" target="dec" id="39" weight="0.9491682052612305" />
+      <edge source="june" target="pride" id="40" weight="0.9472883343696594" />
+      <edge source="june" target="letter" id="41" weight="0.9471387267112732" />
+      <edge source="june" target="headlined" id="42" weight="0.9457979202270508" />
+      <edge source="june" target="parade" id="43" weight="0.9446850419044495" />
+      <edge source="june" target="week" id="44" weight="0.9445554614067078" />
+      <edge source="june" target="titled" id="45" weight="0.9432070255279541" />
+      <edge source="june" target="c" id="46" weight="0.9412298798561096" />
+      <edge source="june" target="jan" id="47" weight="0.9389697909355164" />
+      <edge source="june" target="progress" id="48" weight="0.931433379650116" />
+      <edge source="june" target="sasha" id="49" weight="0.9240182042121887" />
+      <edge source="may" target="july" id="50" weight="0.9943217635154724" />
+      <edge source="may" target="nov" id="51" weight="0.9879385232925415" />
+      <edge source="may" target="june" id="52" weight="0.987033486366272" />
+      <edge source="may" target="oct" id="53" weight="0.9857208728790283" />
+      <edge source="may" target="advocate" id="54" weight="0.983960747718811" />
+      <edge source="may" target="apr" id="55" weight="0.9834955334663391" />
+      <edge source="may" target="aug" id="56" weight="0.9831686615943909" />
+      <edge source="may" target="sept" id="57" weight="0.9830994606018066" />
+      <edge source="may" target="feb" id="58" weight="0.9818449020385742" />
+      <edge source="may" target="sun" id="59" weight="0.9807833433151245" />
+      <edge source="may" target="b" id="60" weight="0.9790123701095581" />
+      <edge source="may" target="dec" id="61" weight="0.9757506251335144" />
+      <edge source="may" target="letter" id="62" weight="0.9738001823425293" />
+      <edge source="may" target="march" id="63" weight="0.9703376889228821" />
+      <edge source="may" target="titled" id="64" weight="0.9699705839157104" />
+      <edge source="may" target="headlined" id="65" weight="0.9693213105201721" />
+      <edge source="may" target="week" id="66" weight="0.9665327072143555" />
+      <edge source="may" target="jan" id="67" weight="0.9628690481185913" />
+      <edge source="may" target="parade" id="68" weight="0.9624676704406738" />
+      <edge source="may" target="progress" id="69" weight="0.9591792821884155" />
+      <edge source="may" target="story" id="70" weight="0.9555817246437073" />
+      <edge source="may" target="see" id="71" weight="0.9552444815635681" />
+      <edge source="may" target="editor" id="72" weight="0.9526132345199585" />
+      <edge source="may" target="http" id="73" weight="0.9506440758705139" />
+      <edge source="may" target="c" id="74" weight="0.9484230875968933" />
+      <edge source="march" target="june" id="75" weight="0.9865725040435791" />
+      <edge source="march" target="advocate" id="76" weight="0.9832245111465454" />
+      <edge source="march" target="may" id="77" weight="0.9703376293182373" />
+      <edge source="march" target="july" id="78" weight="0.9680817127227783" />
+      <edge source="march" target="pride" id="79" weight="0.9639056921005249" />
+      <edge source="march" target="sun" id="80" weight="0.960489809513092" />
+      <edge source="march" target="b" id="81" weight="0.9555716514587402" />
+      <edge source="march" target="nov" id="82" weight="0.9467772245407104" />
+      <edge source="march" target="parade" id="83" weight="0.9464783668518066" />
+      <edge source="march" target="feb" id="84" weight="0.9462138414382935" />
+      <edge source="march" target="week" id="85" weight="0.9449895024299622" />
+      <edge source="march" target="oct" id="86" weight="0.9432681798934937" />
+      <edge source="march" target="aug" id="87" weight="0.943004310131073" />
+      <edge source="march" target="sept" id="88" weight="0.9416652321815491" />
+      <edge source="march" target="news" id="89" weight="0.9396276473999023" />
+      <edge source="march" target="see" id="90" weight="0.9385512471199036" />
+      <edge source="march" target="apr" id="91" weight="0.9361098408699036" />
+      <edge source="march" target="seattle" id="92" weight="0.9298531413078308" />
+      <edge source="march" target="letter" id="93" weight="0.9239770174026489" />
+      <edge source="march" target="dec" id="94" weight="0.9228206872940063" />
+      <edge source="march" target="titled" id="95" weight="0.9196517467498779" />
+      <edge source="march" target="headlined" id="96" weight="0.9175159931182861" />
+      <edge source="march" target="jan" id="97" weight="0.9142037034034729" />
+      <edge source="march" target="progress" id="98" weight="0.908896267414093" />
+      <edge source="march" target="sasha" id="99" weight="0.905750572681427" />
+      <edge source="gay" target="resource" id="100" weight="0.8930591344833374" />
+      <edge source="gay" target="center" id="101" weight="0.8845206499099731" />
+      <edge source="gay" target="lesbian" id="102" weight="0.8695765137672424" />
+      <edge source="gay" target="community" id="103" weight="0.8692710399627686" />
+      <edge source="gay" target="activists" id="104" weight="0.8685507774353027" />
+      <edge source="gay" target="history" id="105" weight="0.8661403656005859" />
+      <edge source="gay" target="museum" id="106" weight="0.865961492061615" />
+      <edge source="gay" target="pride" id="107" weight="0.8612436652183533" />
+      <edge source="gay" target="becomes" id="108" weight="0.8447327613830566" />
+      <edge source="gay" target="project" id="109" weight="0.8427206873893738" />
+      <edge source="gay" target="transgender" id="110" weight="0.8408339023590088" />
+      <edge source="gay" target="northwest" id="111" weight="0.8345727920532227" />
+      <edge source="gay" target="nication" id="112" weight="0.8315333127975464" />
+      <edge source="gay" target="liberation" id="113" weight="0.831139326095581" />
+      <edge source="gay" target="parade" id="114" weight="0.829106330871582" />
+      <edge source="gay" target="charna" id="115" weight="0.8255623579025269" />
+      <edge source="gay" target="march" id="116" weight="0.8196781873703003" />
+      <edge source="gay" target="infrastructure" id="117" weight="0.8119328022003174" />
+      <edge source="gay" target="foundation" id="118" weight="0.8115571141242981" />
+      <edge source="gay" target="constructing" id="119" weight="0.8030123114585876" />
+      <edge source="gay" target="week" id="120" weight="0.8011637330055237" />
+      <edge source="gay" target="advocate" id="121" weight="0.7920599579811096" />
+      <edge source="gay" target="communication" id="122" weight="0.7883458733558655" />
+      <edge source="gay" target="july" id="123" weight="0.7879151105880737" />
+      <edge source="gay" target="metropolitan" id="124" weight="0.7870437502861023" />
+      <edge source="center" target="community" id="125" weight="0.9782311320304871" />
+      <edge source="center" target="resource" id="126" weight="0.9764347076416016" />
+      <edge source="center" target="activists" id="127" weight="0.969541609287262" />
+      <edge source="center" target="lesbian" id="128" weight="0.9407261610031128" />
+      <edge source="center" target="metropolitan" id="129" weight="0.9367008209228516" />
+      <edge source="center" target="history" id="130" weight="0.9318337440490723" />
+      <edge source="center" target="museum" id="131" weight="0.929692804813385" />
+      <edge source="center" target="liberation" id="132" weight="0.9260520935058594" />
+      <edge source="center" target="charna" id="133" weight="0.9248980283737183" />
+      <edge source="center" target="project" id="134" weight="0.9241782426834106" />
+      <edge source="center" target="infrastructure" id="135" weight="0.9233095645904541" />
+      <edge source="center" target="munity" id="136" weight="0.9225230813026428" />
+      <edge source="center" target="festival" id="137" weight="0.9214345812797546" />
+      <edge source="center" target="counseling" id="138" weight="0.9196213483810425" />
+      <edge source="center" target="communication" id="139" weight="0.9161888360977173" />
+      <edge source="center" target="transgender" id="140" weight="0.9155930876731873" />
+      <edge source="center" target="constructing" id="141" weight="0.9125152230262756" />
+      <edge source="center" target="pride" id="142" weight="0.9035849571228027" />
+      <edge source="center" target="consumers" id="143" weight="0.9024239778518677" />
+      <edge source="center" target="nication" id="144" weight="0.9023300409317017" />
+      <edge source="center" target="northwest" id="145" weight="0.8994637727737427" />
+      <edge source="center" target="parade" id="146" weight="0.8960500359535217" />
+      <edge source="center" target="alliance" id="147" weight="0.8946202993392944" />
+      <edge source="center" target="openly" id="148" weight="0.8901013135910034" />
+      <edge source="center" target="relevant" id="149" weight="0.8898085355758667" />
+      <edge source="lesbian" target="community" id="150" weight="0.9446436166763306" />
+      <edge source="lesbian" target="resource" id="151" weight="0.9420567154884338" />
+      <edge source="lesbian" target="center" id="152" weight="0.9407262802124023" />
+      <edge source="lesbian" target="liberation" id="153" weight="0.9397708773612976" />
+      <edge source="lesbian" target="activists" id="154" weight="0.937987208366394" />
+      <edge source="lesbian" target="museum" id="155" weight="0.9357684850692749" />
+      <edge source="lesbian" target="history" id="156" weight="0.9308257102966309" />
+      <edge source="lesbian" target="project" id="157" weight="0.9121733903884888" />
+      <edge source="lesbian" target="pride" id="158" weight="0.9113972187042236" />
+      <edge source="lesbian" target="northwest" id="159" weight="0.8950337767601013" />
+      <edge source="lesbian" target="charna" id="160" weight="0.8768095374107361" />
+      <edge source="lesbian" target="transgender" id="161" weight="0.8708948493003845" />
+      <edge source="lesbian" target="gay" id="162" weight="0.8695763945579529" />
+      <edge source="lesbian" target="becomes" id="163" weight="0.861454427242279" />
+      <edge source="lesbian" target="foundation" id="164" weight="0.8605921268463135" />
+      <edge source="lesbian" target="news" id="165" weight="0.8576727509498596" />
+      <edge source="lesbian" target="infrastructure" id="166" weight="0.8502643704414368" />
+      <edge source="lesbian" target="parade" id="167" weight="0.8493041396141052" />
+      <edge source="lesbian" target="consumers" id="168" weight="0.8454469442367554" />
+      <edge source="lesbian" target="munity" id="169" weight="0.8447141647338867" />
+      <edge source="lesbian" target="sexy" id="170" weight="0.8437846302986145" />
+      <edge source="lesbian" target="nication" id="171" weight="0.8435623645782471" />
+      <edge source="lesbian" target="iii" id="172" weight="0.8429368138313293" />
+      <edge source="lesbian" target="openly" id="173" weight="0.8293018341064453" />
+      <edge source="lesbian" target="communication" id="174" weight="0.8280739784240723" />
+      <edge source="community" target="center" id="175" weight="0.9782311916351318" />
+      <edge source="community" target="resource" id="176" weight="0.9574049711227417" />
+      <edge source="community" target="history" id="177" weight="0.9473764300346375" />
+      <edge source="community" target="project" id="178" weight="0.9473397135734558" />
+      <edge source="community" target="activists" id="179" weight="0.9452422261238098" />
+      <edge source="community" target="lesbian" id="180" weight="0.9446435570716858" />
+      <edge source="community" target="museum" id="181" weight="0.9345996379852295" />
+      <edge source="community" target="communication" id="182" weight="0.9050018787384033" />
+      <edge source="community" target="pride" id="183" weight="0.9029038548469543" />
+      <edge source="community" target="northwest" id="184" weight="0.9019670486450195" />
+      <edge source="community" target="charna" id="185" weight="0.9005249738693237" />
+      <edge source="community" target="liberation" id="186" weight="0.8994200825691223" />
+      <edge source="community" target="metropolitan" id="187" weight="0.8829491138458252" />
+      <edge source="community" target="transgender" id="188" weight="0.8827798366546631" />
+      <edge source="community" target="counseling" id="189" weight="0.882611870765686" />
+      <edge source="community" target="constructing" id="190" weight="0.8795486688613892" />
+      <edge source="community" target="infrastructure" id="191" weight="0.8787621855735779" />
+      <edge source="community" target="gay" id="192" weight="0.869270920753479" />
+      <edge source="community" target="festival" id="193" weight="0.868137776851654" />
+      <edge source="community" target="parade" id="194" weight="0.8681204915046692" />
+      <edge source="community" target="pm" id="195" weight="0.8671706914901733" />
+      <edge source="community" target="becomes" id="196" weight="0.8652888536453247" />
+      <edge source="community" target="alliance" id="197" weight="0.8637691736221313" />
+      <edge source="community" target="munity" id="198" weight="0.8628435134887695" />
+      <edge source="community" target="industry" id="199" weight="0.8624743819236755" />
+      <edge source="history" target="project" id="200" weight="0.9923146367073059" />
+      <edge source="history" target="museum" id="201" weight="0.9920096397399902" />
+      <edge source="history" target="northwest" id="202" weight="0.9784994721412659" />
+      <edge source="history" target="resource" id="203" weight="0.9501640796661377" />
+      <edge source="history" target="community" id="204" weight="0.9473764896392822" />
+      <edge source="history" target="industry" id="205" weight="0.937237024307251" />
+      <edge source="history" target="communication" id="206" weight="0.9362626075744629" />
+      <edge source="history" target="charna" id="207" weight="0.9321187734603882" />
+      <edge source="history" target="center" id="208" weight="0.931833803653717" />
+      <edge source="history" target="lesbian" id="209" weight="0.9308255910873413" />
+      <edge source="history" target="transgender" id="210" weight="0.925309419631958" />
+      <edge source="history" target="theatre" id="211" weight="0.9246044158935547" />
+      <edge source="history" target="activists" id="212" weight="0.9236478805541992" />
+      <edge source="history" target="pride" id="213" weight="0.9168471097946167" />
+      <edge source="history" target="progress" id="214" weight="0.914548397064209" />
+      <edge source="history" target="foundation" id="215" weight="0.9139707684516907" />
+      <edge source="history" target="parade" id="216" weight="0.9046337008476257" />
+      <edge source="history" target="schoenberg" id="217" weight="0.903211772441864" />
+      <edge source="history" target="becomes" id="218" weight="0.9028785228729248" />
+      <edge source="history" target="pm" id="219" weight="0.8923993110656738" />
+      <edge source="history" target="july" id="220" weight="0.8898401856422424" />
+      <edge source="history" target="constructing" id="221" weight="0.8895909786224365" />
+      <edge source="history" target="alliance" id="222" weight="0.8892278671264648" />
+      <edge source="history" target="advocate" id="223" weight="0.8891704678535461" />
+      <edge source="history" target="june" id="224" weight="0.8883121609687805" />
+      <edge source="northwest" target="museum" id="225" weight="0.986187219619751" />
+      <edge source="northwest" target="history" id="226" weight="0.9784994721412659" />
+      <edge source="northwest" target="project" id="227" weight="0.9758343696594238" />
+      <edge source="northwest" target="theatre" id="228" weight="0.9498711228370667" />
+      <edge source="northwest" target="foundation" id="229" weight="0.9469375610351562" />
+      <edge source="northwest" target="industry" id="230" weight="0.9468346834182739" />
+      <edge source="northwest" target="progress" id="231" weight="0.9443147778511047" />
+      <edge source="northwest" target="charna" id="232" weight="0.9359817504882812" />
+      <edge source="northwest" target="transgender" id="233" weight="0.9351382851600647" />
+      <edge source="northwest" target="resource" id="234" weight="0.9324731230735779" />
+      <edge source="northwest" target="communication" id="235" weight="0.9276717901229858" />
+      <edge source="northwest" target="pride" id="236" weight="0.9268319010734558" />
+      <edge source="northwest" target="parade" id="237" weight="0.9239329099655151" />
+      <edge source="northwest" target="schoenberg" id="238" weight="0.9163884520530701" />
+      <edge source="northwest" target="may" id="239" weight="0.9161745309829712" />
+      <edge source="northwest" target="july" id="240" weight="0.9128409624099731" />
+      <edge source="northwest" target="week" id="241" weight="0.9115461111068726" />
+      <edge source="northwest" target="feb" id="242" weight="0.9106859564781189" />
+      <edge source="northwest" target="activists" id="243" weight="0.9093416333198547" />
+      <edge source="northwest" target="interview" id="244" weight="0.9090572595596313" />
+      <edge source="northwest" target="pettis" id="245" weight="0.908804714679718" />
+      <edge source="northwest" target="letter" id="246" weight="0.9063143730163574" />
+      <edge source="northwest" target="june" id="247" weight="0.9043204188346863" />
+      <edge source="northwest" target="community" id="248" weight="0.9019670486450195" />
+      <edge source="northwest" target="nov" id="249" weight="0.9010158181190491" />
+      <edge source="aids" target="foundation" id="250" weight="0.9145913124084473" />
+      <edge source="aids" target="aug" id="251" weight="0.9142793416976929" />
+      <edge source="aids" target="sept" id="252" weight="0.9049310684204102" />
+      <edge source="aids" target="apr" id="253" weight="0.9021350741386414" />
+      <edge source="aids" target="dec" id="254" weight="0.9009221196174622" />
+      <edge source="aids" target="oct" id="255" weight="0.897935688495636" />
+      <edge source="aids" target="feb" id="256" weight="0.897689938545227" />
+      <edge source="aids" target="may" id="257" weight="0.895431399345398" />
+      <edge source="aids" target="progress" id="258" weight="0.8947933316230774" />
+      <edge source="aids" target="editor" id="259" weight="0.8913059234619141" />
+      <edge source="aids" target="story" id="260" weight="0.8908647894859314" />
+      <edge source="aids" target="nov" id="261" weight="0.8908612728118896" />
+      <edge source="aids" target="letter" id="262" weight="0.8898817300796509" />
+      <edge source="aids" target="titled" id="263" weight="0.8897877335548401" />
+      <edge source="aids" target="http" id="264" weight="0.8875419497489929" />
+      <edge source="aids" target="theatre" id="265" weight="0.8859286904335022" />
+      <edge source="aids" target="week" id="266" weight="0.8848174214363098" />
+      <edge source="aids" target="seekers" id="267" weight="0.8844811320304871" />
+      <edge source="aids" target="parade" id="268" weight="0.8842865228652954" />
+      <edge source="aids" target="obituary" id="269" weight="0.8838545680046082" />
+      <edge source="aids" target="see" id="270" weight="0.8835546970367432" />
+      <edge source="aids" target="untitled" id="271" weight="0.8831401467323303" />
+      <edge source="aids" target="july" id="272" weight="0.883033275604248" />
+      <edge source="aids" target="coverage" id="273" weight="0.8827804923057556" />
+      <edge source="aids" target="magazine" id="274" weight="0.8808572292327881" />
+      <edge source="men" target="women" id="275" weight="0.8850579261779785" />
+      <edge source="men" target="bars" id="276" weight="0.8470154404640198" />
+      <edge source="men" target="dance" id="277" weight="0.8404332995414734" />
+      <edge source="men" target="nication" id="278" weight="0.8199480175971985" />
+      <edge source="men" target="spray" id="279" weight="0.8025926351547241" />
+      <edge source="men" target="bar" id="280" weight="0.8004189133644104" />
+      <edge source="men" target="many" id="281" weight="0.7894551157951355" />
+      <edge source="men" target="tina" id="282" weight="0.7791264057159424" />
+      <edge source="men" target="annex" id="283" weight="0.778659462928772" />
+      <edge source="men" target="munity" id="284" weight="0.7763108015060425" />
+      <edge source="men" target="presence" id="285" weight="0.7761934995651245" />
+      <edge source="men" target="radical" id="286" weight="0.7746825218200684" />
+      <edge source="men" target="aboveground" id="287" weight="0.7718002796173096" />
+      <edge source="men" target="male" id="288" weight="0.7713985443115234" />
+      <edge source="men" target="sexy" id="289" weight="0.768928587436676" />
+      <edge source="men" target="separatist" id="290" weight="0.7680073976516724" />
+      <edge source="men" target="among" id="291" weight="0.7669038772583008" />
+      <edge source="men" target="consumers" id="292" weight="0.7659087777137756" />
+      <edge source="men" target="lobbyists" id="293" weight="0.7640143036842346" />
+      <edge source="men" target="way" id="294" weight="0.7633947730064392" />
+      <edge source="men" target="extended" id="295" weight="0.7624618411064148" />
+      <edge source="men" target="separatists" id="296" weight="0.7615670561790466" />
+      <edge source="men" target="liberation" id="297" weight="0.7582029104232788" />
+      <edge source="men" target="oppressed" id="298" weight="0.7559223175048828" />
+      <edge source="men" target="explore" id="299" weight="0.7543883323669434" />
+      <edge source="women" target="bars" id="300" weight="0.8850950598716736" />
+      <edge source="women" target="men" id="301" weight="0.8850581049919128" />
+      <edge source="women" target="among" id="302" weight="0.8838856816291809" />
+      <edge source="women" target="dance" id="303" weight="0.875679075717926" />
+      <edge source="women" target="political" id="304" weight="0.8752393126487732" />
+      <edge source="women" target="nication" id="305" weight="0.8702468276023865" />
+      <edge source="women" target="explore" id="306" weight="0.8638606071472168" />
+      <edge source="women" target="openly" id="307" weight="0.8589444160461426" />
+      <edge source="women" target="city" id="308" weight="0.8588835000991821" />
+      <edge source="women" target="lobbyists" id="309" weight="0.8547680377960205" />
+      <edge source="women" target="presence" id="310" weight="0.8540455102920532" />
+      <edge source="women" target="spray" id="311" weight="0.8511888384819031" />
+      <edge source="women" target="feminist" id="312" weight="0.8504714965820312" />
+      <edge source="women" target="created" id="313" weight="0.8498967885971069" />
+      <edge source="women" target="separatists" id="314" weight="0.8494446873664856" />
+      <edge source="women" target="bians" id="315" weight="0.8493345975875854" />
+      <edge source="women" target="many" id="316" weight="0.8490387201309204" />
+      <edge source="women" target="struggled" id="317" weight="0.8459518551826477" />
+      <edge source="women" target="consumers" id="318" weight="0.8442496657371521" />
+      <edge source="women" target="radical" id="319" weight="0.8424017429351807" />
+      <edge source="women" target="minorities" id="320" weight="0.8423861861228943" />
+      <edge source="women" target="odds" id="321" weight="0.8412051200866699" />
+      <edge source="women" target="resource" id="322" weight="0.8410331010818481" />
+      <edge source="women" target="public" id="323" weight="0.8403844237327576" />
+      <edge source="women" target="annex" id="324" weight="0.8398971557617188" />
+      <edge source="police" target="chief" id="325" weight="0.9070061445236206" />
+      <edge source="police" target="cer" id="326" weight="0.8991665244102478" />
+      <edge source="police" target="tielsch" id="327" weight="0.8963521718978882" />
+      <edge source="police" target="ramon" id="328" weight="0.8927239775657654" />
+      <edge source="police" target="cers" id="329" weight="0.8886703848838806" />
+      <edge source="police" target="suspended" id="330" weight="0.8871758580207825" />
+      <edge source="police" target="insanity" id="331" weight="0.8822647333145142" />
+      <edge source="police" target="month" id="332" weight="0.8768565058708191" />
+      <edge source="police" target="payo" id="333" weight="0.8763524293899536" />
+      <edge source="police" target="told" id="334" weight="0.873984694480896" />
+      <edge source="police" target="earl" id="335" weight="0.8718796968460083" />
+      <edge source="police" target="reporter" id="336" weight="0.870384693145752" />
+      <edge source="police" target="rotten" id="337" weight="0.867895781993866" />
+      <edge source="police" target="hunthausen" id="338" weight="0.8667571544647217" />
+      <edge source="police" target="phoned" id="339" weight="0.8664484024047852" />
+      <edge source="police" target="farmer" id="340" weight="0.8664014339447021" />
+      <edge source="police" target="wilson" id="341" weight="0.8657572269439697" />
+      <edge source="police" target="bedrooms" id="342" weight="0.8652297854423523" />
+      <edge source="police" target="payoffs" id="343" weight="0.8649502992630005" />
+      <edge source="police" target="prather" id="344" weight="0.8646824955940247" />
+      <edge source="police" target="surgery" id="345" weight="0.8643903136253357" />
+      <edge source="police" target="maciver" id="346" weight="0.863651692867279" />
+      <edge source="police" target="chiefs" id="347" weight="0.8630579710006714" />
+      <edge source="police" target="wells" id="348" weight="0.862892210483551" />
+      <edge source="police" target="department" id="349" weight="0.8628053069114685" />
+      <edge source="told" target="reporter" id="350" weight="0.9533379673957825" />
+      <edge source="told" target="story" id="351" weight="0.9522290825843811" />
+      <edge source="told" target="headline" id="352" weight="0.9488394856452942" />
+      <edge source="told" target="seattlepi" id="353" weight="0.931452751159668" />
+      <edge source="told" target="chief" id="354" weight="0.9307789206504822" />
+      <edge source="told" target="sept" id="355" weight="0.9231710433959961" />
+      <edge source="told" target="apr" id="356" weight="0.9228453040122986" />
+      <edge source="told" target="titled" id="357" weight="0.9221838712692261" />
+      <edge source="told" target="unfolding" id="358" weight="0.9217557907104492" />
+      <edge source="told" target="http" id="359" weight="0.9192193150520325" />
+      <edge source="told" target="headlined" id="360" weight="0.9183717966079712" />
+      <edge source="told" target="reported" id="361" weight="0.9179309010505676" />
+      <edge source="told" target="unprecedented" id="362" weight="0.9178550839424133" />
+      <edge source="told" target="seekers" id="363" weight="0.9178401827812195" />
+      <edge source="told" target="ostrom" id="364" weight="0.9173457026481628" />
+      <edge source="told" target="dec" id="365" weight="0.9173085689544678" />
+      <edge source="told" target="earl" id="366" weight="0.9163315296173096" />
+      <edge source="told" target="vatican" id="367" weight="0.9125646352767944" />
+      <edge source="told" target="oct" id="368" weight="0.9120016694068909" />
+      <edge source="told" target="published" id="369" weight="0.9099884033203125" />
+      <edge source="told" target="diary" id="370" weight="0.9089012742042542" />
+      <edge source="told" target="patti" id="371" weight="0.9076958894729614" />
+      <edge source="told" target="arti" id="372" weight="0.9075592756271362" />
+      <edge source="told" target="gazette" id="373" weight="0.9064250588417053" />
+      <edge source="told" target="g" id="374" weight="0.9062467217445374" />
+      <edge source="farmer" target="according" id="375" weight="0.9752154350280762" />
+      <edge source="farmer" target="steven" id="376" weight="0.9728209972381592" />
+      <edge source="farmer" target="suspended" id="377" weight="0.9693981409072876" />
+      <edge source="farmer" target="preparing" id="378" weight="0.9672343134880066" />
+      <edge source="farmer" target="september" id="379" weight="0.9656878113746643" />
+      <edge source="farmer" target="frances" id="380" weight="0.963891863822937" />
+      <edge source="farmer" target="diagnosed" id="381" weight="0.9637435078620911" />
+      <edge source="farmer" target="keith" id="382" weight="0.9608488082885742" />
+      <edge source="farmer" target="cook" id="383" weight="0.9597750902175903" />
+      <edge source="farmer" target="inquest" id="384" weight="0.9594795107841492" />
+      <edge source="farmer" target="j" id="385" weight="0.9585704803466797" />
+      <edge source="farmer" target="prosecutor" id="386" weight="0.9577345252037048" />
+      <edge source="farmer" target="january" id="387" weight="0.9574654698371887" />
+      <edge source="farmer" target="arrived" id="388" weight="0.9574068188667297" />
+      <edge source="farmer" target="described" id="389" weight="0.9572299718856812" />
+      <edge source="farmer" target="yelling" id="390" weight="0.9569891691207886" />
+      <edge source="farmer" target="confidential" id="391" weight="0.9563323855400085" />
+      <edge source="farmer" target="october" id="392" weight="0.9562861323356628" />
+      <edge source="farmer" target="tested" id="393" weight="0.9562279582023621" />
+      <edge source="farmer" target="month" id="394" weight="0.9561603665351868" />
+      <edge source="farmer" target="prison" id="395" weight="0.9558016061782837" />
+      <edge source="farmer" target="released" id="396" weight="0.9557221531867981" />
+      <edge source="farmer" target="ramon" id="397" weight="0.9556148648262024" />
+      <edge source="farmer" target="tests" id="398" weight="0.9550665616989136" />
+      <edge source="farmer" target="jurors" id="399" weight="0.9550206065177917" />
+      <edge source="washington" target="papers" id="400" weight="0.9112498164176941" />
+      <edge source="washington" target="state" id="401" weight="0.8971260786056519" />
+      <edge source="washington" target="collections" id="402" weight="0.8967371582984924" />
+      <edge source="washington" target="university" id="403" weight="0.8882705569267273" />
+      <edge source="washington" target="western" id="404" weight="0.8757089972496033" />
+      <edge source="washington" target="historical" id="405" weight="0.8621960282325745" />
+      <edge source="washington" target="libraries" id="406" weight="0.85719895362854" />
+      <edge source="washington" target="supreme" id="407" weight="0.8565916419029236" />
+      <edge source="washington" target="district" id="408" weight="0.8539782166481018" />
+      <edge source="washington" target="archives" id="409" weight="0.853879451751709" />
+      <edge source="washington" target="special" id="410" weight="0.8532182574272156" />
+      <edge source="washington" target="amend" id="411" weight="0.8488097786903381" />
+      <edge source="washington" target="mscua" id="412" weight="0.8383737206459045" />
+      <edge source="washington" target="press" id="413" weight="0.8345198631286621" />
+      <edge source="washington" target="uw" id="414" weight="0.8185791373252869" />
+      <edge source="washington" target="mayors" id="415" weight="0.8134859204292297" />
+      <edge source="washington" target="senate" id="416" weight="0.804588258266449" />
+      <edge source="washington" target="doss" id="417" weight="0.8034259676933289" />
+      <edge source="washington" target="u" id="418" weight="0.8014645576477051" />
+      <edge source="washington" target="rhay" id="419" weight="0.7906801700592041" />
+      <edge source="washington" target="columbia" id="420" weight="0.7857838869094849" />
+      <edge source="washington" target="tacoma" id="421" weight="0.7857033610343933" />
+      <edge source="washington" target="representatives" id="422" weight="0.7794728875160217" />
+      <edge source="washington" target="andrews" id="423" weight="0.7787712812423706" />
+      <edge source="washington" target="wn" id="424" weight="0.7772691249847412" />
+      <edge source="university" target="papers" id="425" weight="0.9146426916122437" />
+      <edge source="university" target="collections" id="426" weight="0.912137508392334" />
+      <edge source="university" target="special" id="427" weight="0.8908082246780396" />
+      <edge source="university" target="washington" id="428" weight="0.8882706761360168" />
+      <edge source="university" target="libraries" id="429" weight="0.8739084005355835" />
+      <edge source="university" target="doss" id="430" weight="0.8716962337493896" />
+      <edge source="university" target="mayors" id="431" weight="0.8649104237556458" />
+      <edge source="university" target="press" id="432" weight="0.862715482711792" />
+      <edge source="university" target="andrews" id="433" weight="0.859704315662384" />
+      <edge source="university" target="mscua" id="434" weight="0.8371609449386597" />
+      <edge source="university" target="uw" id="435" weight="0.8328648209571838" />
+      <edge source="university" target="historical" id="436" weight="0.83138108253479" />
+      <edge source="university" target="state" id="437" weight="0.8213697671890259" />
+      <edge source="university" target="district" id="438" weight="0.8124427199363708" />
+      <edge source="university" target="archives" id="439" weight="0.8072157502174377" />
+      <edge source="university" target="bateman" id="440" weight="0.8047942519187927" />
+      <edge source="university" target="western" id="441" weight="0.7993189096450806" />
+      <edge source="university" target="daily" id="442" weight="0.7972629070281982" />
+      <edge source="university" target="columbia" id="443" weight="0.7761150598526001" />
+      <edge source="university" target="u" id="444" weight="0.7736073136329651" />
+      <edge source="university" target="society" id="445" weight="0.7725352644920349" />
+      <edge source="university" target="tacoma" id="446" weight="0.7696280479431152" />
+      <edge source="university" target="oklahoma" id="447" weight="0.7688632011413574" />
+      <edge source="university" target="supreme" id="448" weight="0.7673564553260803" />
+      <edge source="university" target="campus" id="449" weight="0.7604334354400635" />
+      <edge source="political" target="public" id="450" weight="0.987481415271759" />
+      <edge source="political" target="minorities" id="451" weight="0.9743727445602417" />
+      <edge source="political" target="jobs" id="452" weight="0.9727068543434143" />
+      <edge source="political" target="presence" id="453" weight="0.9720169901847839" />
+      <edge source="political" target="socialist" id="454" weight="0.9708116054534912" />
+      <edge source="political" target="equal" id="455" weight="0.9706793427467346" />
+      <edge source="political" target="visible" id="456" weight="0.9703718423843384" />
+      <edge source="political" target="support" id="457" weight="0.9699310064315796" />
+      <edge source="political" target="feminist" id="458" weight="0.96955406665802" />
+      <edge source="political" target="heterosexuals" id="459" weight="0.9688817262649536" />
+      <edge source="political" target="awareness" id="460" weight="0.9682243466377258" />
+      <edge source="political" target="among" id="461" weight="0.9669219851493835" />
+      <edge source="political" target="passionately" id="462" weight="0.9665787220001221" />
+      <edge source="political" target="struggle" id="463" weight="0.965632438659668" />
+      <edge source="political" target="created" id="464" weight="0.9648585319519043" />
+      <edge source="political" target="identities" id="465" weight="0.9647483825683594" />
+      <edge source="political" target="accommodations" id="466" weight="0.9640821814537048" />
+      <edge source="political" target="enjoy" id="467" weight="0.9635740518569946" />
+      <edge source="political" target="granting" id="468" weight="0.9634833931922913" />
+      <edge source="political" target="groups" id="469" weight="0.9631502032279968" />
+      <edge source="political" target="politics" id="470" weight="0.9623396992683411" />
+      <edge source="political" target="argued" id="471" weight="0.9621484875679016" />
+      <edge source="political" target="basic" id="472" weight="0.96213698387146" />
+      <edge source="political" target="visibility" id="473" weight="0.9620313048362732" />
+      <edge source="political" target="separatists" id="474" weight="0.9619449973106384" />
+      <edge source="public" target="political" id="475" weight="0.9874813556671143" />
+      <edge source="public" target="heterosexuals" id="476" weight="0.9664181470870972" />
+      <edge source="public" target="jobs" id="477" weight="0.9650622010231018" />
+      <edge source="public" target="homosexuals" id="478" weight="0.964226245880127" />
+      <edge source="public" target="support" id="479" weight="0.9631730318069458" />
+      <edge source="public" target="accommodations" id="480" weight="0.963058590888977" />
+      <edge source="public" target="presence" id="481" weight="0.962749719619751" />
+      <edge source="public" target="minorities" id="482" weight="0.9618513584136963" />
+      <edge source="public" target="visible" id="483" weight="0.9607884883880615" />
+      <edge source="public" target="identities" id="484" weight="0.9599891304969788" />
+      <edge source="public" target="social" id="485" weight="0.9590055346488953" />
+      <edge source="public" target="socialist" id="486" weight="0.9587514400482178" />
+      <edge source="public" target="insiders" id="487" weight="0.9565772414207458" />
+      <edge source="public" target="among" id="488" weight="0.956393301486969" />
+      <edge source="public" target="visibility" id="489" weight="0.9563416838645935" />
+      <edge source="public" target="part" id="490" weight="0.9562353491783142" />
+      <edge source="public" target="awareness" id="491" weight="0.955294132232666" />
+      <edge source="public" target="rhetoric" id="492" weight="0.9549457430839539" />
+      <edge source="public" target="city" id="493" weight="0.9546077847480774" />
+      <edge source="public" target="politics" id="494" weight="0.9538938403129578" />
+      <edge source="public" target="hall" id="495" weight="0.9536687731742859" />
+      <edge source="public" target="passionately" id="496" weight="0.9533281326293945" />
+      <edge source="public" target="citizens" id="497" weight="0.9524339437484741" />
+      <edge source="public" target="became" id="498" weight="0.9522920250892639" />
+      <edge source="public" target="struggle" id="499" weight="0.9517689347267151" />
+      <edge source="people" target="know" id="500" weight="0.9608150124549866" />
+      <edge source="people" target="like" id="501" weight="0.9606127142906189" />
+      <edge source="people" target="one" id="502" weight="0.9538768529891968" />
+      <edge source="people" target="said" id="503" weight="0.9534590840339661" />
+      <edge source="people" target="another" id="504" weight="0.9513183236122131" />
+      <edge source="people" target="even" id="505" weight="0.9489952921867371" />
+      <edge source="people" target="going" id="506" weight="0.9473130702972412" />
+      <edge source="people" target="wanted" id="507" weight="0.9461683630943298" />
+      <edge source="people" target="mac" id="508" weight="0.9412283301353455" />
+      <edge source="people" target="sex" id="509" weight="0.938542902469635" />
+      <edge source="people" target="ing" id="510" weight="0.9373296499252319" />
+      <edge source="people" target="care" id="511" weight="0.9373018145561218" />
+      <edge source="people" target="discover" id="512" weight="0.9362459182739258" />
+      <edge source="people" target="get" id="513" weight="0.9351068139076233" />
+      <edge source="people" target="much" id="514" weight="0.9316928386688232" />
+      <edge source="people" target="together" id="515" weight="0.9294763207435608" />
+      <edge source="people" target="person" id="516" weight="0.9287462830543518" />
+      <edge source="people" target="felt" id="517" weight="0.9271062612533569" />
+      <edge source="people" target="long" id="518" weight="0.9266039729118347" />
+      <edge source="people" target="say" id="519" weight="0.926353394985199" />
+      <edge source="people" target="got" id="520" weight="0.9262986183166504" />
+      <edge source="people" target="still" id="521" weight="0.9246534109115601" />
+      <edge source="people" target="might" id="522" weight="0.9240743517875671" />
+      <edge source="people" target="whether" id="523" weight="0.9232325553894043" />
+      <edge source="people" target="come" id="524" weight="0.9221472144126892" />
+      <edge source="sex" target="even" id="525" weight="0.9591749906539917" />
+      <edge source="sex" target="ing" id="526" weight="0.9590563774108887" />
+      <edge source="sex" target="wanted" id="527" weight="0.9576486945152283" />
+      <edge source="sex" target="whether" id="528" weight="0.9573699831962585" />
+      <edge source="sex" target="know" id="529" weight="0.9562878608703613" />
+      <edge source="sex" target="like" id="530" weight="0.9534489512443542" />
+      <edge source="sex" target="together" id="531" weight="0.9532985091209412" />
+      <edge source="sex" target="care" id="532" weight="0.9529344439506531" />
+      <edge source="sex" target="could" id="533" weight="0.9503737092018127" />
+      <edge source="sex" target="discover" id="534" weight="0.950359582901001" />
+      <edge source="sex" target="one" id="535" weight="0.9501131176948547" />
+      <edge source="sex" target="long" id="536" weight="0.9492225646972656" />
+      <edge source="sex" target="much" id="537" weight="0.9491420388221741" />
+      <edge source="sex" target="person" id="538" weight="0.9488285183906555" />
+      <edge source="sex" target="going" id="539" weight="0.9486642479896545" />
+      <edge source="sex" target="feel" id="540" weight="0.9486280083656311" />
+      <edge source="sex" target="still" id="541" weight="0.9486231803894043" />
+      <edge source="sex" target="way" id="542" weight="0.9474143385887146" />
+      <edge source="sex" target="make" id="543" weight="0.9463643431663513" />
+      <edge source="sex" target="come" id="544" weight="0.9451299905776978" />
+      <edge source="sex" target="help" id="545" weight="0.9438954591751099" />
+      <edge source="sex" target="heterosexual" id="546" weight="0.943612813949585" />
+      <edge source="sex" target="another" id="547" weight="0.9434195160865784" />
+      <edge source="sex" target="homosexual" id="548" weight="0.9432429075241089" />
+      <edge source="sex" target="might" id="549" weight="0.9429376125335693" />
+      <edge source="homosexuals" target="public" id="550" weight="0.9642263650894165" />
+      <edge source="homosexuals" target="political" id="551" weight="0.9557331800460815" />
+      <edge source="homosexuals" target="heterosexuals" id="552" weight="0.9474881291389465" />
+      <edge source="homosexuals" target="insiders" id="553" weight="0.9426954984664917" />
+      <edge source="homosexuals" target="city" id="554" weight="0.9419260621070862" />
+      <edge source="homosexuals" target="accommodations" id="555" weight="0.9411157965660095" />
+      <edge source="homosexuals" target="discrimination" id="556" weight="0.9389960765838623" />
+      <edge source="homosexuals" target="jobs" id="557" weight="0.9360430240631104" />
+      <edge source="homosexuals" target="minorities" id="558" weight="0.9342603087425232" />
+      <edge source="homosexuals" target="among" id="559" weight="0.9338119029998779" />
+      <edge source="homosexuals" target="visible" id="560" weight="0.9331623315811157" />
+      <edge source="homosexuals" target="identities" id="561" weight="0.9274682998657227" />
+      <edge source="homosexuals" target="forge" id="562" weight="0.9268465042114258" />
+      <edge source="homosexuals" target="outlawed" id="563" weight="0.9228389859199524" />
+      <edge source="homosexuals" target="prohibiting" id="564" weight="0.9221596121788025" />
+      <edge source="homosexuals" target="argued" id="565" weight="0.9202205538749695" />
+      <edge source="homosexuals" target="granting" id="566" weight="0.9192837476730347" />
+      <edge source="homosexuals" target="rhetoric" id="567" weight="0.9179219007492065" />
+      <edge source="homosexuals" target="social" id="568" weight="0.9175026416778564" />
+      <edge source="homosexuals" target="many" id="569" weight="0.916456937789917" />
+      <edge source="homosexuals" target="equal" id="570" weight="0.9164419174194336" />
+      <edge source="homosexuals" target="discourse" id="571" weight="0.9152058362960815" />
+      <edge source="homosexuals" target="shanti" id="572" weight="0.9150771498680115" />
+      <edge source="homosexuals" target="hall" id="573" weight="0.9148088097572327" />
+      <edge source="homosexuals" target="presence" id="574" weight="0.914446234703064" />
+      <edge source="law" target="sodomy" id="575" weight="0.9669840335845947" />
+      <edge source="law" target="amend" id="576" weight="0.9437724351882935" />
+      <edge source="law" target="repealed" id="577" weight="0.9067343473434448" />
+      <edge source="law" target="senate" id="578" weight="0.9015416502952576" />
+      <edge source="law" target="state" id="579" weight="0.8887999653816223" />
+      <edge source="law" target="western" id="580" weight="0.8821267485618591" />
+      <edge source="law" target="legislature" id="581" weight="0.8749099969863892" />
+      <edge source="law" target="passage" id="582" weight="0.8703247904777527" />
+      <edge source="law" target="representatives" id="583" weight="0.8618741631507874" />
+      <edge source="law" target="laws" id="584" weight="0.8573204874992371" />
+      <edge source="law" target="repeal" id="585" weight="0.855918824672699" />
+      <edge source="law" target="malicious" id="586" weight="0.8541891574859619" />
+      <edge source="law" target="archives" id="587" weight="0.8461640477180481" />
+      <edge source="law" target="supreme" id="588" weight="0.844944953918457" />
+      <edge source="law" target="investigated" id="589" weight="0.8443311452865601" />
+      <edge source="law" target="historical" id="590" weight="0.8436173796653748" />
+      <edge source="law" target="currently" id="591" weight="0.8408459424972534" />
+      <edge source="law" target="wn" id="592" weight="0.8296624422073364" />
+      <edge source="law" target="diversity" id="593" weight="0.8279746770858765" />
+      <edge source="law" target="enforcement" id="594" weight="0.8233805894851685" />
+      <edge source="law" target="code" id="595" weight="0.8230822086334229" />
+      <edge source="law" target="penitentiary" id="596" weight="0.8220725655555725" />
+      <edge source="law" target="criminal" id="597" weight="0.8219005465507507" />
+      <edge source="law" target="antidiscrimination" id="598" weight="0.8203433752059937" />
+      <edge source="law" target="hospital" id="599" weight="0.8194252252578735" />
+      <edge source="sodomy" target="law" id="600" weight="0.9669840335845947" />
+      <edge source="sodomy" target="repealed" id="601" weight="0.9634888768196106" />
+      <edge source="sodomy" target="senate" id="602" weight="0.9462394118309021" />
+      <edge source="sodomy" target="legislature" id="603" weight="0.9346171617507935" />
+      <edge source="sodomy" target="passage" id="604" weight="0.9324128031730652" />
+      <edge source="sodomy" target="western" id="605" weight="0.9288071393966675" />
+      <edge source="sodomy" target="amend" id="606" weight="0.9267765283584595" />
+      <edge source="sodomy" target="representatives" id="607" weight="0.9188314080238342" />
+      <edge source="sodomy" target="criminal" id="608" weight="0.918415904045105" />
+      <edge source="sodomy" target="penitentiary" id="609" weight="0.9120769500732422" />
+      <edge source="sodomy" target="wn" id="610" weight="0.9114578366279602" />
+      <edge source="sodomy" target="code" id="611" weight="0.9087988138198853" />
+      <edge source="sodomy" target="repeal" id="612" weight="0.9075674414634705" />
+      <edge source="sodomy" target="hospital" id="613" weight="0.9075347781181335" />
+      <edge source="sodomy" target="supreme" id="614" weight="0.9069918394088745" />
+      <edge source="sodomy" target="uphold" id="615" weight="0.9017614722251892" />
+      <edge source="sodomy" target="docket" id="616" weight="0.8989169001579285" />
+      <edge source="sodomy" target="appeals" id="617" weight="0.897544801235199" />
+      <edge source="sodomy" target="archives" id="618" weight="0.8957961797714233" />
+      <edge source="sodomy" target="journal" id="619" weight="0.8955793976783752" />
+      <edge source="sodomy" target="enforcement" id="620" weight="0.8952505588531494" />
+      <edge source="sodomy" target="pete" id="621" weight="0.8944815993309021" />
+      <edge source="sodomy" target="prologue" id="622" weight="0.8943813443183899" />
+      <edge source="sodomy" target="diversity" id="623" weight="0.8943593502044678" />
+      <edge source="sodomy" target="eastern" id="624" weight="0.8939304351806641" />
+      <edge source="rights" target="forbidding" id="625" weight="0.8165111541748047" />
+      <edge source="rights" target="liberties" id="626" weight="0.8043087124824524" />
+      <edge source="rights" target="bill" id="627" weight="0.7885234951972961" />
+      <edge source="rights" target="protects" id="628" weight="0.7787896990776062" />
+      <edge source="rights" target="civil" id="629" weight="0.7680894732475281" />
+      <edge source="rights" target="protections" id="630" weight="0.727279543876648" />
+      <edge source="rights" target="becomes" id="631" weight="0.7240350246429443" />
+      <edge source="rights" target="opposing" id="632" weight="0.6995885372161865" />
+      <edge source="rights" target="commission" id="633" weight="0.6939244270324707" />
+      <edge source="rights" target="movement" id="634" weight="0.680534303188324" />
+      <edge source="rights" target="anti" id="635" weight="0.6799898147583008" />
+      <edge source="rights" target="crafted" id="636" weight="0.6777917742729187" />
+      <edge source="rights" target="marches" id="637" weight="0.6692003607749939" />
+      <edge source="rights" target="protecting" id="638" weight="0.6676617860794067" />
+      <edge source="rights" target="retreated" id="639" weight="0.6644399762153625" />
+      <edge source="rights" target="council" id="640" weight="0.6596061587333679" />
+      <edge source="rights" target="seldom" id="641" weight="0.6563588976860046" />
+      <edge source="rights" target="activists" id="642" weight="0.655078113079071" />
+      <edge source="rights" target="group" id="643" weight="0.6516506671905518" />
+      <edge source="rights" target="human" id="644" weight="0.6512835621833801" />
+      <edge source="rights" target="march" id="645" weight="0.6504856944084167" />
+      <edge source="rights" target="equal" id="646" weight="0.6489977836608887" />
+      <edge source="rights" target="openly" id="647" weight="0.6477824449539185" />
+      <edge source="rights" target="basic" id="648" weight="0.6457666158676147" />
+      <edge source="rights" target="omnibus" id="649" weight="0.644981861114502" />
+      <edge source="bill" target="human" id="650" weight="0.9496799111366272" />
+      <edge source="bill" target="crafted" id="651" weight="0.9466168880462646" />
+      <edge source="bill" target="coalition" id="652" weight="0.9415541291236877" />
+      <edge source="bill" target="liberties" id="653" weight="0.9391525387763977" />
+      <edge source="bill" target="commission" id="654" weight="0.9391267895698547" />
+      <edge source="bill" target="protections" id="655" weight="0.9373019933700562" />
+      <edge source="bill" target="marches" id="656" weight="0.9368348121643066" />
+      <edge source="bill" target="investigated" id="657" weight="0.9340910315513611" />
+      <edge source="bill" target="laws" id="658" weight="0.933591365814209" />
+      <edge source="bill" target="basic" id="659" weight="0.9307174682617188" />
+      <edge source="bill" target="antidiscrimination" id="660" weight="0.9287586808204651" />
+      <edge source="bill" target="protecting" id="661" weight="0.9283552169799805" />
+      <edge source="bill" target="minority" id="662" weight="0.9275276064872742" />
+      <edge source="bill" target="forbidding" id="663" weight="0.9273136258125305" />
+      <edge source="bill" target="omnibus" id="664" weight="0.9272940754890442" />
+      <edge source="bill" target="protect" id="665" weight="0.926675021648407" />
+      <edge source="bill" target="malicious" id="666" weight="0.9238116145133972" />
+      <edge source="bill" target="retreated" id="667" weight="0.923719584941864" />
+      <edge source="bill" target="equal" id="668" weight="0.9233953952789307" />
+      <edge source="bill" target="repeal" id="669" weight="0.9232980012893677" />
+      <edge source="bill" target="movement" id="670" weight="0.9199312329292297" />
+      <edge source="bill" target="gaspard" id="671" weight="0.918400764465332" />
+      <edge source="bill" target="singular" id="672" weight="0.9174715876579285" />
+      <edge source="bill" target="moments" id="673" weight="0.9162386059761047" />
+      <edge source="bill" target="hearing" id="674" weight="0.9154938459396362" />
+      <edge source="civil" target="bill" id="675" weight="0.8807213306427002" />
+      <edge source="civil" target="forbidding" id="676" weight="0.8655266761779785" />
+      <edge source="civil" target="human" id="677" weight="0.8273388147354126" />
+      <edge source="civil" target="protections" id="678" weight="0.7825718522071838" />
+      <edge source="civil" target="basic" id="679" weight="0.7768064737319946" />
+      <edge source="civil" target="equal" id="680" weight="0.7730626463890076" />
+      <edge source="civil" target="rights" id="681" weight="0.7680894732475281" />
+      <edge source="civil" target="coalition" id="682" weight="0.7663483023643494" />
+      <edge source="civil" target="investigated" id="683" weight="0.760753333568573" />
+      <edge source="civil" target="protecting" id="684" weight="0.7580739259719849" />
+      <edge source="civil" target="laws" id="685" weight="0.7562825083732605" />
+      <edge source="civil" target="minority" id="686" weight="0.7544301152229309" />
+      <edge source="civil" target="becomes" id="687" weight="0.7495294213294983" />
+      <edge source="civil" target="commission" id="688" weight="0.7494622468948364" />
+      <edge source="civil" target="crafted" id="689" weight="0.7475469708442688" />
+      <edge source="civil" target="currently" id="690" weight="0.7416133880615234" />
+      <edge source="civil" target="malicious" id="691" weight="0.7404862642288208" />
+      <edge source="civil" target="liberties" id="692" weight="0.7394136786460876" />
+      <edge source="civil" target="marches" id="693" weight="0.7386775016784668" />
+      <edge source="civil" target="movement" id="694" weight="0.7386727333068848" />
+      <edge source="civil" target="protects" id="695" weight="0.7323035597801208" />
+      <edge source="civil" target="opposing" id="696" weight="0.7293315529823303" />
+      <edge source="civil" target="protect" id="697" weight="0.7274243831634521" />
+      <edge source="civil" target="seldom" id="698" weight="0.7179033160209656" />
+      <edge source="civil" target="statewide" id="699" weight="0.7163847088813782" />
+      <edge source="council" target="support" id="700" weight="0.9649990797042847" />
+      <edge source="council" target="visibility" id="701" weight="0.9622226357460022" />
+      <edge source="council" target="mainstream" id="702" weight="0.960900068283081" />
+      <edge source="council" target="endorsed" id="703" weight="0.9579280614852905" />
+      <edge source="council" target="movement" id="704" weight="0.957359790802002" />
+      <edge source="council" target="early" id="705" weight="0.9562565088272095" />
+      <edge source="council" target="protections" id="706" weight="0.9546872973442078" />
+      <edge source="council" target="issue" id="707" weight="0.9540345668792725" />
+      <edge source="council" target="ordinance" id="708" weight="0.9537819623947144" />
+      <edge source="council" target="commission" id="709" weight="0.9529229402542114" />
+      <edge source="council" target="feminist" id="710" weight="0.9519877433776855" />
+      <edge source="council" target="awareness" id="711" weight="0.9517032504081726" />
+      <edge source="council" target="leaders" id="712" weight="0.9500582814216614" />
+      <edge source="council" target="clout" id="713" weight="0.949406623840332" />
+      <edge source="council" target="celebrations" id="714" weight="0.949153482913971" />
+      <edge source="council" target="housing" id="715" weight="0.9491280317306519" />
+      <edge source="council" target="catholics" id="716" weight="0.9490339756011963" />
+      <edge source="council" target="present" id="717" weight="0.9488932490348816" />
+      <edge source="council" target="seldom" id="718" weight="0.9479084014892578" />
+      <edge source="council" target="organized" id="719" weight="0.9475080370903015" />
+      <edge source="council" target="struggle" id="720" weight="0.9473253488540649" />
+      <edge source="council" target="hall" id="721" weight="0.9469427466392517" />
+      <edge source="council" target="public" id="722" weight="0.9469081163406372" />
+      <edge source="council" target="conflicts" id="723" weight="0.9462441802024841" />
+      <edge source="council" target="packed" id="724" weight="0.9461127519607544" />
+      <edge source="homosexual" target="might" id="725" weight="0.9886923432350159" />
+      <edge source="homosexual" target="heterosexual" id="726" weight="0.9882651567459106" />
+      <edge source="homosexual" target="find" id="727" weight="0.9869980216026306" />
+      <edge source="homosexual" target="seemed" id="728" weight="0.9856775403022766" />
+      <edge source="homosexual" target="kind" id="729" weight="0.9853887557983398" />
+      <edge source="homosexual" target="help" id="730" weight="0.9847878813743591" />
+      <edge source="homosexual" target="much" id="731" weight="0.9847717881202698" />
+      <edge source="homosexual" target="safe" id="732" weight="0.984767735004425" />
+      <edge source="homosexual" target="talk" id="733" weight="0.9845916032791138" />
+      <edge source="homosexual" target="really" id="734" weight="0.982703685760498" />
+      <edge source="homosexual" target="never" id="735" weight="0.9825760126113892" />
+      <edge source="homosexual" target="together" id="736" weight="0.9821362495422363" />
+      <edge source="homosexual" target="feel" id="737" weight="0.9817358255386353" />
+      <edge source="homosexual" target="family" id="738" weight="0.9812281131744385" />
+      <edge source="homosexual" target="particular" id="739" weight="0.9810469150543213" />
+      <edge source="homosexual" target="things" id="740" weight="0.9807450175285339" />
+      <edge source="homosexual" target="boys" id="741" weight="0.9805917739868164" />
+      <edge source="homosexual" target="places" id="742" weight="0.9803247451782227" />
+      <edge source="homosexual" target="enough" id="743" weight="0.9799743294715881" />
+      <edge source="homosexual" target="encounters" id="744" weight="0.9799724817276001" />
+      <edge source="homosexual" target="felt" id="745" weight="0.979930579662323" />
+      <edge source="homosexual" target="often" id="746" weight="0.9795913696289062" />
+      <edge source="homosexual" target="ing" id="747" weight="0.9795127511024475" />
+      <edge source="homosexual" target="best" id="748" weight="0.9792073965072632" />
+      <edge source="homosexual" target="proved" id="749" weight="0.9788340330123901" />
+      <edge source="life" target="claiming" id="750" weight="0.9866724014282227" />
+      <edge source="life" target="civic" id="751" weight="0.9689071774482727" />
+      <edge source="life" target="nobody" id="752" weight="0.7725282311439514" />
+      <edge source="life" target="conversation" id="753" weight="0.7552721500396729" />
+      <edge source="life" target="contribution" id="754" weight="0.7492417693138123" />
+      <edge source="life" target="rules" id="755" weight="0.7402521967887878" />
+      <edge source="life" target="discourse" id="756" weight="0.7366442084312439" />
+      <edge source="life" target="sation" id="757" weight="0.7318971753120422" />
+      <edge source="life" target="conver" id="758" weight="0.7302709221839905" />
+      <edge source="life" target="chautauquas" id="759" weight="0.7259457111358643" />
+      <edge source="life" target="intensely" id="760" weight="0.7109635472297668" />
+      <edge source="life" target="praying" id="761" weight="0.6837239265441895" />
+      <edge source="life" target="dealt" id="762" weight="0.6816096305847168" />
+      <edge source="life" target="wheelchair" id="763" weight="0.6805201768875122" />
+      <edge source="life" target="endorse" id="764" weight="0.6784442663192749" />
+      <edge source="life" target="walks" id="765" weight="0.6762380599975586" />
+      <edge source="life" target="pe" id="766" weight="0.6752336025238037" />
+      <edge source="life" target="feminism" id="767" weight="0.6740559935569763" />
+      <edge source="life" target="landscape" id="768" weight="0.6723296046257019" />
+      <edge source="life" target="ufaf" id="769" weight="0.6711427569389343" />
+      <edge source="life" target="lesbianism" id="770" weight="0.6630809307098389" />
+      <edge source="life" target="widespread" id="771" weight="0.6611181497573853" />
+      <edge source="life" target="fragile" id="772" weight="0.6568427681922913" />
+      <edge source="life" target="imag" id="773" weight="0.6445728540420532" />
+      <edge source="life" target="imaginative" id="774" weight="0.6390162706375122" />
+      <edge source="claiming" target="life" id="775" weight="0.9866722226142883" />
+      <edge source="claiming" target="civic" id="776" weight="0.9762164950370789" />
+      <edge source="claiming" target="conversation" id="777" weight="0.8382344841957092" />
+      <edge source="claiming" target="nobody" id="778" weight="0.8375911712646484" />
+      <edge source="claiming" target="contribution" id="779" weight="0.8321674466133118" />
+      <edge source="claiming" target="discourse" id="780" weight="0.8209852576255798" />
+      <edge source="claiming" target="conver" id="781" weight="0.8189119100570679" />
+      <edge source="claiming" target="rules" id="782" weight="0.8082369565963745" />
+      <edge source="claiming" target="chautauquas" id="783" weight="0.8081934452056885" />
+      <edge source="claiming" target="sation" id="784" weight="0.7941721081733704" />
+      <edge source="claiming" target="dealt" id="785" weight="0.7780964374542236" />
+      <edge source="claiming" target="praying" id="786" weight="0.7745823264122009" />
+      <edge source="claiming" target="endorse" id="787" weight="0.7731857895851135" />
+      <edge source="claiming" target="wheelchair" id="788" weight="0.7689865231513977" />
+      <edge source="claiming" target="pe" id="789" weight="0.7675244808197021" />
+      <edge source="claiming" target="landscape" id="790" weight="0.7652732729911804" />
+      <edge source="claiming" target="feminism" id="791" weight="0.7643743753433228" />
+      <edge source="claiming" target="walks" id="792" weight="0.7598543763160706" />
+      <edge source="claiming" target="ufaf" id="793" weight="0.7569999098777771" />
+      <edge source="claiming" target="widespread" id="794" weight="0.7537364363670349" />
+      <edge source="claiming" target="lesbianism" id="795" weight="0.7532733678817749" />
+      <edge source="claiming" target="intensely" id="796" weight="0.7464677095413208" />
+      <edge source="claiming" target="imag" id="797" weight="0.7410266995429993" />
+      <edge source="claiming" target="fragile" id="798" weight="0.7404348254203796" />
+      <edge source="claiming" target="refuge" id="799" weight="0.7404122352600098" />
+      <edge source="civic" target="claiming" id="800" weight="0.9762164950370789" />
+      <edge source="civic" target="life" id="801" weight="0.9689071178436279" />
+      <edge source="civic" target="nobody" id="802" weight="0.8338216543197632" />
+      <edge source="civic" target="conversation" id="803" weight="0.7995585203170776" />
+      <edge source="civic" target="contribution" id="804" weight="0.7849020957946777" />
+      <edge source="civic" target="rules" id="805" weight="0.7814338207244873" />
+      <edge source="civic" target="discourse" id="806" weight="0.7802463173866272" />
+      <edge source="civic" target="chautauquas" id="807" weight="0.7798898816108704" />
+      <edge source="civic" target="conver" id="808" weight="0.7752083539962769" />
+      <edge source="civic" target="intensely" id="809" weight="0.768318772315979" />
+      <edge source="civic" target="sation" id="810" weight="0.7658500671386719" />
+      <edge source="civic" target="praying" id="811" weight="0.7485756278038025" />
+      <edge source="civic" target="wheelchair" id="812" weight="0.7477551102638245" />
+      <edge source="civic" target="dealt" id="813" weight="0.7458851933479309" />
+      <edge source="civic" target="endorse" id="814" weight="0.7450481057167053" />
+      <edge source="civic" target="pe" id="815" weight="0.7420756220817566" />
+      <edge source="civic" target="walks" id="816" weight="0.7412384748458862" />
+      <edge source="civic" target="feminism" id="817" weight="0.7331191301345825" />
+      <edge source="civic" target="landscape" id="818" weight="0.7270331978797913" />
+      <edge source="civic" target="ufaf" id="819" weight="0.7264730334281921" />
+      <edge source="civic" target="widespread" id="820" weight="0.7261271476745605" />
+      <edge source="civic" target="lesbianism" id="821" weight="0.7247733473777771" />
+      <edge source="civic" target="fragile" id="822" weight="0.7235522866249084" />
+      <edge source="civic" target="refuge" id="823" weight="0.7143832445144653" />
+      <edge source="civic" target="celibate" id="824" weight="0.7093786597251892" />
+      <edge source="sexual" target="orientation" id="825" weight="0.9529491066932678" />
+      <edge source="sexual" target="preventing" id="826" weight="0.9406062364578247" />
+      <edge source="sexual" target="discrimination" id="827" weight="0.9381529092788696" />
+      <edge source="sexual" target="exile" id="828" weight="0.9264962673187256" />
+      <edge source="sexual" target="effect" id="829" weight="0.9259239435195923" />
+      <edge source="sexual" target="homo" id="830" weight="0.9221625328063965" />
+      <edge source="sexual" target="majority" id="831" weight="0.9215953946113586" />
+      <edge source="sexual" target="sexuals" id="832" weight="0.9214771389961243" />
+      <edge source="sexual" target="inclusion" id="833" weight="0.9197590947151184" />
+      <edge source="sexual" target="minorities" id="834" weight="0.9185945391654968" />
+      <edge source="sexual" target="jobs" id="835" weight="0.9181062579154968" />
+      <edge source="sexual" target="prohibiting" id="836" weight="0.9164418578147888" />
+      <edge source="sexual" target="accommodations" id="837" weight="0.9164050817489624" />
+      <edge source="sexual" target="protection" id="838" weight="0.9158012270927429" />
+      <edge source="sexual" target="enforcement" id="839" weight="0.9149438738822937" />
+      <edge source="sexual" target="heterosexuals" id="840" weight="0.9123263359069824" />
+      <edge source="sexual" target="discriminating" id="841" weight="0.9121143221855164" />
+      <edge source="sexual" target="make" id="842" weight="0.9110606908798218" />
+      <edge source="sexual" target="prologue" id="843" weight="0.9105660915374756" />
+      <edge source="sexual" target="race" id="844" weight="0.9096935987472534" />
+      <edge source="sexual" target="governing" id="845" weight="0.9095776677131653" />
+      <edge source="sexual" target="american" id="846" weight="0.9095563292503357" />
+      <edge source="sexual" target="social" id="847" weight="0.909183144569397" />
+      <edge source="sexual" target="way" id="848" weight="0.9085920453071594" />
+      <edge source="sexual" target="vague" id="849" weight="0.908099353313446" />
+      <edge source="hill" target="informally" id="850" weight="0.7285518050193787" />
+      <edge source="hill" target="church" id="851" weight="0.7218495011329651" />
+      <edge source="hill" target="catholic" id="852" weight="0.6981657147407532" />
+      <edge source="hill" target="renton" id="853" weight="0.6878961324691772" />
+      <edge source="hill" target="capitol" id="854" weight="0.6728452444076538" />
+      <edge source="hill" target="south" id="855" weight="0.6617146730422974" />
+      <edge source="hill" target="slope" id="856" weight="0.6572065949440002" />
+      <edge source="hill" target="summit" id="857" weight="0.6526044011116028" />
+      <edge source="hill" target="st" id="858" weight="0.6497120261192322" />
+      <edge source="hill" target="hills" id="859" weight="0.6345749497413635" />
+      <edge source="hill" target="sixteenth" id="860" weight="0.6329393982887268" />
+      <edge source="hill" target="heavily" id="861" weight="0.6324517130851746" />
+      <edge source="hill" target="clash" id="862" weight="0.6313212513923645" />
+      <edge source="hill" target="avenue" id="863" weight="0.6306864619255066" />
+      <edge source="hill" target="fifteenth" id="864" weight="0.6221663951873779" />
+      <edge source="hill" target="rambling" id="865" weight="0.6118496060371399" />
+      <edge source="hill" target="den" id="866" weight="0.6035541892051697" />
+      <edge source="hill" target="methodists" id="867" weight="0.5999494194984436" />
+      <edge source="hill" target="commerce" id="868" weight="0.5979086756706238" />
+      <edge source="hill" target="trolley" id="869" weight="0.5893054008483887" />
+      <edge source="hill" target="north" id="870" weight="0.5890572667121887" />
+      <edge source="hill" target="advance" id="871" weight="0.589025616645813" />
+      <edge source="hill" target="chapel" id="872" weight="0.5862500071525574" />
+      <edge source="hill" target="cathedral" id="873" weight="0.585191011428833" />
+      <edge source="hill" target="atop" id="874" weight="0.5846154689788818" />
+      <edge source="church" target="aquarian" id="875" weight="0.9506216645240784" />
+      <edge source="church" target="commerce" id="876" weight="0.948832631111145" />
+      <edge source="church" target="informally" id="877" weight="0.9431205987930298" />
+      <edge source="church" target="clash" id="878" weight="0.9407427906990051" />
+      <edge source="church" target="methodists" id="879" weight="0.9403098821640015" />
+      <edge source="church" target="protestant" id="880" weight="0.9381963014602661" />
+      <edge source="church" target="dignity" id="881" weight="0.9370661973953247" />
+      <edge source="church" target="endorsed" id="882" weight="0.9353045225143433" />
+      <edge source="church" target="downtown" id="883" weight="0.9331529140472412" />
+      <edge source="church" target="methodist" id="884" weight="0.9326207637786865" />
+      <edge source="church" target="ministry" id="885" weight="0.9325999021530151" />
+      <edge source="church" target="cath" id="886" weight="0.931837797164917" />
+      <edge source="church" target="broadway" id="887" weight="0.9304097294807434" />
+      <edge source="church" target="catholic" id="888" weight="0.9298740029335022" />
+      <edge source="church" target="trolley" id="889" weight="0.9297261238098145" />
+      <edge source="church" target="joseph" id="890" weight="0.9293650388717651" />
+      <edge source="church" target="mass" id="891" weight="0.9293438196182251" />
+      <edge source="church" target="ruppert" id="892" weight="0.9288734197616577" />
+      <edge source="church" target="moving" id="893" weight="0.9283452033996582" />
+      <edge source="church" target="hills" id="894" weight="0.9282045364379883" />
+      <edge source="church" target="mile" id="895" weight="0.9275514483451843" />
+      <edge source="church" target="chamber" id="896" weight="0.9272040128707886" />
+      <edge source="church" target="stan" id="897" weight="0.9270861744880676" />
+      <edge source="church" target="geographic" id="898" weight="0.926815390586853" />
+      <edge source="church" target="atop" id="899" weight="0.9261184930801392" />
+      <edge source="catholic" target="clash" id="900" weight="0.961686372756958" />
+      <edge source="catholic" target="south" id="901" weight="0.9553963541984558" />
+      <edge source="catholic" target="stan" id="902" weight="0.9543402194976807" />
+      <edge source="catholic" target="informally" id="903" weight="0.953314483165741" />
+      <edge source="catholic" target="slope" id="904" weight="0.9513583779335022" />
+      <edge source="catholic" target="heavily" id="905" weight="0.9503065347671509" />
+      <edge source="catholic" target="sixteenth" id="906" weight="0.9495930671691895" />
+      <edge source="catholic" target="tim" id="907" weight="0.9478634595870972" />
+      <edge source="catholic" target="anne" id="908" weight="0.9458936452865601" />
+      <edge source="catholic" target="trolley" id="909" weight="0.943451464176178" />
+      <edge source="catholic" target="summit" id="910" weight="0.9421977996826172" />
+      <edge source="catholic" target="methodists" id="911" weight="0.9388536214828491" />
+      <edge source="catholic" target="commerce" id="912" weight="0.9385414719581604" />
+      <edge source="catholic" target="avenue" id="913" weight="0.9333141446113586" />
+      <edge source="catholic" target="st" id="914" weight="0.9316425919532776" />
+      <edge source="catholic" target="cath" id="915" weight="0.9309036731719971" />
+      <edge source="catholic" target="church" id="916" weight="0.9298740029335022" />
+      <edge source="catholic" target="atop" id="917" weight="0.9269874691963196" />
+      <edge source="catholic" target="renton" id="918" weight="0.9257795810699463" />
+      <edge source="catholic" target="tensions" id="919" weight="0.9251513481140137" />
+      <edge source="catholic" target="chamber" id="920" weight="0.9249454736709595" />
+      <edge source="catholic" target="east" id="921" weight="0.9245008230209351" />
+      <edge source="catholic" target="mile" id="922" weight="0.9244261384010315" />
+      <edge source="catholic" target="crossed" id="923" weight="0.9241122007369995" />
+      <edge source="catholic" target="north" id="924" weight="0.9238321781158447" />
+      <edge source="court" target="supreme" id="925" weight="0.9613010287284851" />
+      <edge source="court" target="superior" id="926" weight="0.9510091543197632" />
+      <edge source="court" target="u" id="927" weight="0.9214420318603516" />
+      <edge source="court" target="county" id="928" weight="0.9078212976455688" />
+      <edge source="court" target="western" id="929" weight="0.9064601063728333" />
+      <edge source="court" target="appearances" id="930" weight="0.904959499835968" />
+      <edge source="court" target="rhay" id="931" weight="0.9013974666595459" />
+      <edge source="court" target="records" id="932" weight="0.8997807502746582" />
+      <edge source="court" target="docket" id="933" weight="0.8974509835243225" />
+      <edge source="court" target="appeals" id="934" weight="0.889881432056427" />
+      <edge source="court" target="wn" id="935" weight="0.8873292803764343" />
+      <edge source="court" target="king" id="936" weight="0.8802277445793152" />
+      <edge source="court" target="district" id="937" weight="0.8768630027770996" />
+      <edge source="court" target="state" id="938" weight="0.874213695526123" />
+      <edge source="court" target="dockets" id="939" weight="0.868343710899353" />
+      <edge source="court" target="case" id="940" weight="0.8674381971359253" />
+      <edge source="court" target="judge" id="941" weight="0.8630138635635376" />
+      <edge source="court" target="criminal" id="942" weight="0.8584743738174438" />
+      <edge source="court" target="amend" id="943" weight="0.855345606803894" />
+      <edge source="court" target="documents" id="944" weight="0.852286696434021" />
+      <edge source="court" target="v" id="945" weight="0.852229118347168" />
+      <edge source="court" target="archives" id="946" weight="0.8517624735832214" />
+      <edge source="court" target="senate" id="947" weight="0.8504359722137451" />
+      <edge source="court" target="sodomy" id="948" weight="0.8501418828964233" />
+      <edge source="court" target="repealed" id="949" weight="0.8416963219642639" />
+      <edge source="king" target="superior" id="950" weight="0.9359201192855835" />
+      <edge source="king" target="county" id="951" weight="0.9183289408683777" />
+      <edge source="king" target="court" id="952" weight="0.8802277445793152" />
+      <edge source="king" target="warren" id="953" weight="0.8695053458213806" />
+      <edge source="king" target="records" id="954" weight="0.8630278706550598" />
+      <edge source="king" target="dade" id="955" weight="0.8612825870513916" />
+      <edge source="king" target="health" id="956" weight="0.8586821556091309" />
+      <edge source="king" target="appearances" id="957" weight="0.8550424575805664" />
+      <edge source="king" target="dockets" id="958" weight="0.8435453772544861" />
+      <edge source="king" target="rhay" id="959" weight="0.8370362520217896" />
+      <edge source="king" target="mental" id="960" weight="0.8355067372322083" />
+      <edge source="king" target="docket" id="961" weight="0.8340615034103394" />
+      <edge source="king" target="department" id="962" weight="0.8237218260765076" />
+      <edge source="king" target="appeals" id="963" weight="0.8209839463233948" />
+      <edge source="king" target="u" id="964" weight="0.820087194442749" />
+      <edge source="king" target="judge" id="965" weight="0.8193721771240234" />
+      <edge source="king" target="documents" id="966" weight="0.8159070611000061" />
+      <edge source="king" target="supreme" id="967" weight="0.8152015209197998" />
+      <edge source="king" target="municipal" id="968" weight="0.8079390525817871" />
+      <edge source="king" target="case" id="969" weight="0.8060581088066101" />
+      <edge source="king" target="boss" id="970" weight="0.8049547672271729" />
+      <edge source="king" target="await" id="971" weight="0.8031817674636841" />
+      <edge source="king" target="imperial" id="972" weight="0.8000588417053223" />
+      <edge source="king" target="criminal" id="973" weight="0.7920215129852295" />
+      <edge source="king" target="v" id="974" weight="0.7908312082290649" />
+      <edge source="man" target="woman" id="975" weight="0.9711927175521851" />
+      <edge source="man" target="night" id="976" weight="0.9702019095420837" />
+      <edge source="man" target="time" id="977" weight="0.9697200655937195" />
+      <edge source="man" target="cer" id="978" weight="0.9665929675102234" />
+      <edge source="man" target="back" id="979" weight="0.9664243459701538" />
+      <edge source="man" target="mckay" id="980" weight="0.9647753238677979" />
+      <edge source="man" target="pair" id="981" weight="0.9645477533340454" />
+      <edge source="man" target="maciver" id="982" weight="0.9640252590179443" />
+      <edge source="man" target="lou" id="983" weight="0.9638670682907104" />
+      <edge source="man" target="young" id="984" weight="0.9637416005134583" />
+      <edge source="man" target="show" id="985" weight="0.9633511900901794" />
+      <edge source="man" target="let" id="986" weight="0.9633397459983826" />
+      <edge source="man" target="went" id="987" weight="0.9628930687904358" />
+      <edge source="man" target="reporters" id="988" weight="0.9624963402748108" />
+      <edge source="man" target="friend" id="989" weight="0.9624143242835999" />
+      <edge source="man" target="say" id="990" weight="0.9622054696083069" />
+      <edge source="man" target="arresting" id="991" weight="0.9621000289916992" />
+      <edge source="man" target="cop" id="992" weight="0.9620238542556763" />
+      <edge source="man" target="scene" id="993" weight="0.9619045853614807" />
+      <edge source="man" target="think" id="994" weight="0.9616753458976746" />
+      <edge source="man" target="says" id="995" weight="0.9614948034286499" />
+      <edge source="man" target="came" id="996" weight="0.9613952040672302" />
+      <edge source="man" target="operators" id="997" weight="0.9611666202545166" />
+      <edge source="man" target="identification" id="998" weight="0.9608480334281921" />
+      <edge source="man" target="met" id="999" weight="0.9604800939559937" />
+      <edge source="dorian" target="group" id="1000" weight="0.9093157052993774" />
+      <edge source="dorian" target="society" id="1001" weight="0.889072060585022" />
+      <edge source="dorian" target="brydon" id="1002" weight="0.8619557023048401" />
+      <edge source="dorian" target="charlie" id="1003" weight="0.8384990096092224" />
+      <edge source="dorian" target="service" id="1004" weight="0.8370423316955566" />
+      <edge source="dorian" target="counseling" id="1005" weight="0.8316883444786072" />
+      <edge source="dorian" target="criticized" id="1006" weight="0.8295265436172485" />
+      <edge source="dorian" target="coalition" id="1007" weight="0.829253077507019" />
+      <edge source="dorian" target="becomes" id="1008" weight="0.8214371204376221" />
+      <edge source="dorian" target="new" id="1009" weight="0.8211430311203003" />
+      <edge source="dorian" target="constructing" id="1010" weight="0.8202865719795227" />
+      <edge source="dorian" target="communication" id="1011" weight="0.8189373016357422" />
+      <edge source="dorian" target="alliance" id="1012" weight="0.8163334131240845" />
+      <edge source="dorian" target="association" id="1013" weight="0.8162776827812195" />
+      <edge source="dorian" target="emergence" id="1014" weight="0.8101977705955505" />
+      <edge source="dorian" target="members" id="1015" weight="0.8100177645683289" />
+      <edge source="dorian" target="openly" id="1016" weight="0.8089744448661804" />
+      <edge source="dorian" target="lobby" id="1017" weight="0.8072373270988464" />
+      <edge source="dorian" target="legislator" id="1018" weight="0.8063215613365173" />
+      <edge source="dorian" target="subculture" id="1019" weight="0.8047670722007751" />
+      <edge source="dorian" target="movement" id="1020" weight="0.8029543161392212" />
+      <edge source="dorian" target="antidiscrimination" id="1021" weight="0.8022863268852234" />
+      <edge source="dorian" target="adjust" id="1022" weight="0.8020145297050476" />
+      <edge source="dorian" target="doss" id="1023" weight="0.8018959760665894" />
+      <edge source="dorian" target="preserve" id="1024" weight="0.8015168905258179" />
+      <edge source="brydon" target="criticized" id="1025" weight="0.958654522895813" />
+      <edge source="brydon" target="charlie" id="1026" weight="0.956957995891571" />
+      <edge source="brydon" target="alliance" id="1027" weight="0.9559634923934937" />
+      <edge source="brydon" target="emergence" id="1028" weight="0.9484226107597351" />
+      <edge source="brydon" target="anti" id="1029" weight="0.9467133283615112" />
+      <edge source="brydon" target="communication" id="1030" weight="0.9463006854057312" />
+      <edge source="brydon" target="yasinin" id="1031" weight="0.9449763894081116" />
+      <edge source="brydon" target="mayor" id="1032" weight="0.9448606967926025" />
+      <edge source="brydon" target="leaders" id="1033" weight="0.9441785216331482" />
+      <edge source="brydon" target="columns" id="1034" weight="0.9436202049255371" />
+      <edge source="brydon" target="atkins" id="1035" weight="0.9421775937080383" />
+      <edge source="brydon" target="karen" id="1036" weight="0.9420874714851379" />
+      <edge source="brydon" target="legislator" id="1037" weight="0.9413061738014221" />
+      <edge source="brydon" target="anderson" id="1038" weight="0.9410010576248169" />
+      <edge source="brydon" target="insult" id="1039" weight="0.940248429775238" />
+      <edge source="brydon" target="mainstream" id="1040" weight="0.9397924542427063" />
+      <edge source="brydon" target="flint" id="1041" weight="0.9395619630813599" />
+      <edge source="brydon" target="interviews" id="1042" weight="0.9393536448478699" />
+      <edge source="brydon" target="london" id="1043" weight="0.9385495185852051" />
+      <edge source="brydon" target="kopay" id="1044" weight="0.9384907484054565" />
+      <edge source="brydon" target="conference" id="1045" weight="0.9383630156517029" />
+      <edge source="brydon" target="newsletter" id="1046" weight="0.9377182126045227" />
+      <edge source="brydon" target="david" id="1047" weight="0.9376112818717957" />
+      <edge source="brydon" target="media" id="1048" weight="0.9372525811195374" />
+      <edge source="brydon" target="goes" id="1049" weight="0.9369232058525085" />
+      <edge source="well" target="organizing" id="1050" weight="0.9937753677368164" />
+      <edge source="well" target="therefore" id="1051" weight="0.9932902455329895" />
+      <edge source="well" target="ads" id="1052" weight="0.9923184514045715" />
+      <edge source="well" target="femi" id="1053" weight="0.9916689991950989" />
+      <edge source="well" target="groups" id="1054" weight="0.9916037321090698" />
+      <edge source="well" target="separatism" id="1055" weight="0.9915414452552795" />
+      <edge source="well" target="amazon" id="1056" weight="0.9912415742874146" />
+      <edge source="well" target="working" id="1057" weight="0.9910404086112976" />
+      <edge source="well" target="socialists" id="1058" weight="0.990602433681488" />
+      <edge source="well" target="feminist" id="1059" weight="0.9905416369438171" />
+      <edge source="well" target="organization" id="1060" weight="0.9904435276985168" />
+      <edge source="well" target="fervent" id="1061" weight="0.9902770519256592" />
+      <edge source="well" target="supportive" id="1062" weight="0.990196704864502" />
+      <edge source="well" target="completely" id="1063" weight="0.9900199174880981" />
+      <edge source="well" target="outside" id="1064" weight="0.9900025129318237" />
+      <edge source="well" target="organizations" id="1065" weight="0.9899030327796936" />
+      <edge source="well" target="neither" id="1066" weight="0.9898492693901062" />
+      <edge source="well" target="bian" id="1067" weight="0.9898388981819153" />
+      <edge source="well" target="support" id="1068" weight="0.9898354411125183" />
+      <edge source="well" target="services" id="1069" weight="0.9896515011787415" />
+      <edge source="well" target="nazi" id="1070" weight="0.9896325469017029" />
+      <edge source="well" target="begun" id="1071" weight="0.989612340927124" />
+      <edge source="well" target="struggling" id="1072" weight="0.9895399212837219" />
+      <edge source="well" target="youth" id="1073" weight="0.9893937706947327" />
+      <edge source="well" target="freedom" id="1074" weight="0.9893453121185303" />
+      <edge source="health" target="mental" id="1075" weight="0.9334282875061035" />
+      <edge source="health" target="department" id="1076" weight="0.9093946218490601" />
+      <edge source="health" target="warren" id="1077" weight="0.8980393409729004" />
+      <edge source="health" target="dade" id="1078" weight="0.897651195526123" />
+      <edge source="health" target="records" id="1079" weight="0.890581488609314" />
+      <edge source="health" target="superior" id="1080" weight="0.8894520401954651" />
+      <edge source="health" target="appearances" id="1081" weight="0.8886926174163818" />
+      <edge source="health" target="margaret" id="1082" weight="0.8854062557220459" />
+      <edge source="health" target="boss" id="1083" weight="0.8843705058097839" />
+      <edge source="health" target="dockets" id="1084" weight="0.883568525314331" />
+      <edge source="health" target="board" id="1085" weight="0.8826327323913574" />
+      <edge source="health" target="judge" id="1086" weight="0.881665050983429" />
+      <edge source="health" target="municipal" id="1087" weight="0.8798446655273438" />
+      <edge source="health" target="tv" id="1088" weight="0.8791729807853699" />
+      <edge source="health" target="docket" id="1089" weight="0.8786349892616272" />
+      <edge source="health" target="documents" id="1090" weight="0.8736867904663086" />
+      <edge source="health" target="criminal" id="1091" weight="0.872763454914093" />
+      <edge source="health" target="whatsoever" id="1092" weight="0.8679944276809692" />
+      <edge source="health" target="appeals" id="1093" weight="0.8669648170471191" />
+      <edge source="health" target="imperial" id="1094" weight="0.8644525408744812" />
+      <edge source="health" target="intractable" id="1095" weight="0.863461971282959" />
+      <edge source="health" target="disorders" id="1096" weight="0.8626469373703003" />
+      <edge source="health" target="according" id="1097" weight="0.8620058298110962" />
+      <edge source="health" target="institute" id="1098" weight="0.8606351613998413" />
+      <edge source="health" target="psychosurgery" id="1099" weight="0.8600339889526367" />
+      <edge source="become" target="became" id="1100" weight="0.9897576570510864" />
+      <edge source="become" target="hall" id="1101" weight="0.9895709156990051" />
+      <edge source="become" target="began" id="1102" weight="0.9890271425247192" />
+      <edge source="become" target="known" id="1103" weight="0.9886617660522461" />
+      <edge source="become" target="visible" id="1104" weight="0.9872234463691711" />
+      <edge source="become" target="feminists" id="1105" weight="0.9870728850364685" />
+      <edge source="become" target="identities" id="1106" weight="0.9866898059844971" />
+      <edge source="become" target="nized" id="1107" weight="0.9866645336151123" />
+      <edge source="become" target="meet" id="1108" weight="0.9859170913696289" />
+      <edge source="become" target="leadership" id="1109" weight="0.985803484916687" />
+      <edge source="become" target="hoped" id="1110" weight="0.9853734374046326" />
+      <edge source="become" target="symbol" id="1111" weight="0.9853224158287048" />
+      <edge source="become" target="areas" id="1112" weight="0.9853165149688721" />
+      <edge source="become" target="role" id="1113" weight="0.9848679900169373" />
+      <edge source="become" target="particular" id="1114" weight="0.9847697019577026" />
+      <edge source="become" target="bian" id="1115" weight="0.9847376942634583" />
+      <edge source="become" target="reality" id="1116" weight="0.9846310019493103" />
+      <edge source="become" target="visibility" id="1117" weight="0.9845446348190308" />
+      <edge source="become" target="socialist" id="1118" weight="0.9843918681144714" />
+      <edge source="become" target="brand" id="1119" weight="0.9843693375587463" />
+      <edge source="become" target="working" id="1120" weight="0.9841484427452087" />
+      <edge source="become" target="territory" id="1121" weight="0.9839938282966614" />
+      <edge source="become" target="early" id="1122" weight="0.9835451245307922" />
+      <edge source="become" target="consciousness" id="1123" weight="0.9834937453269958" />
+      <edge source="become" target="geography" id="1124" weight="0.9834241271018982" />
+      <edge source="john" target="james" id="1125" weight="0.9928969740867615" />
+      <edge source="john" target="comes" id="1126" weight="0.987866222858429" />
+      <edge source="john" target="wilson" id="1127" weight="0.9866920709609985" />
+      <edge source="john" target="priest" id="1128" weight="0.9861859083175659" />
+      <edge source="john" target="tra" id="1129" weight="0.9861545562744141" />
+      <edge source="john" target="named" id="1130" weight="0.9860160946846008" />
+      <edge source="john" target="september" id="1131" weight="0.9850782752037048" />
+      <edge source="john" target="arrived" id="1132" weight="0.9848408699035645" />
+      <edge source="john" target="described" id="1133" weight="0.9848353266716003" />
+      <edge source="john" target="morgan" id="1134" weight="0.9840881824493408" />
+      <edge source="john" target="brown" id="1135" weight="0.9835652709007263" />
+      <edge source="john" target="sent" id="1136" weight="0.9835196137428284" />
+      <edge source="john" target="store" id="1137" weight="0.9833446145057678" />
+      <edge source="john" target="marks" id="1138" weight="0.9828855395317078" />
+      <edge source="john" target="catwalk" id="1139" weight="0.9827553629875183" />
+      <edge source="john" target="ed" id="1140" weight="0.9826621413230896" />
+      <edge source="john" target="joe" id="1141" weight="0.9825188517570496" />
+      <edge source="john" target="terry" id="1142" weight="0.9825064539909363" />
+      <edge source="john" target="autobiography" id="1143" weight="0.9824584722518921" />
+      <edge source="john" target="wuerl" id="1144" weight="0.9823441505432129" />
+      <edge source="john" target="released" id="1145" weight="0.9822850823402405" />
+      <edge source="john" target="january" id="1146" weight="0.9821990132331848" />
+      <edge source="john" target="elliott" id="1147" weight="0.9821375012397766" />
+      <edge source="john" target="wells" id="1148" weight="0.9820967316627502" />
+      <edge source="john" target="monastery" id="1149" weight="0.982075035572052" />
+      <edge source="initiative" target="thirteen" id="1150" weight="0.969064474105835" />
+      <edge source="initiative" target="political" id="1151" weight="0.9398085474967957" />
+      <edge source="initiative" target="campaign" id="1152" weight="0.933010458946228" />
+      <edge source="initiative" target="protections" id="1153" weight="0.9326812624931335" />
+      <edge source="initiative" target="council" id="1154" weight="0.9320576190948486" />
+      <edge source="initiative" target="support" id="1155" weight="0.9317261576652527" />
+      <edge source="initiative" target="citizens" id="1156" weight="0.9283837080001831" />
+      <edge source="initiative" target="ordinance" id="1157" weight="0.9281345009803772" />
+      <edge source="initiative" target="basic" id="1158" weight="0.9279904365539551" />
+      <edge source="initiative" target="jobs" id="1159" weight="0.927837610244751" />
+      <edge source="initiative" target="awareness" id="1160" weight="0.9278077483177185" />
+      <edge source="initiative" target="issue" id="1161" weight="0.9275457262992859" />
+      <edge source="initiative" target="public" id="1162" weight="0.9273184537887573" />
+      <edge source="initiative" target="equal" id="1163" weight="0.9260562062263489" />
+      <edge source="initiative" target="clout" id="1164" weight="0.9257582426071167" />
+      <edge source="initiative" target="passionately" id="1165" weight="0.9256244897842407" />
+      <edge source="initiative" target="leaders" id="1166" weight="0.9254589080810547" />
+      <edge source="initiative" target="opposing" id="1167" weight="0.924895703792572" />
+      <edge source="initiative" target="speech" id="1168" weight="0.9244369864463806" />
+      <edge source="initiative" target="statewide" id="1169" weight="0.9243796467781067" />
+      <edge source="initiative" target="movement" id="1170" weight="0.9242709875106812" />
+      <edge source="initiative" target="ini" id="1171" weight="0.9237550497055054" />
+      <edge source="initiative" target="prohibiting" id="1172" weight="0.9236457347869873" />
+      <edge source="initiative" target="retain" id="1173" weight="0.9232150912284851" />
+      <edge source="initiative" target="employment" id="1174" weight="0.9230802655220032" />
+      <edge source="example" target="protest" id="1175" weight="0.9939352869987488" />
+      <edge source="example" target="bruce" id="1176" weight="0.9939144849777222" />
+      <edge source="example" target="following" id="1177" weight="0.9929622411727905" />
+      <edge source="example" target="cial" id="1178" weight="0.9928389191627502" />
+      <edge source="example" target="casey" id="1179" weight="0.9927606582641602" />
+      <edge source="example" target="victory" id="1180" weight="0.9926829934120178" />
+      <edge source="example" target="caitlin" id="1181" weight="0.9924672245979309" />
+      <edge source="example" target="revealed" id="1182" weight="0.9924620985984802" />
+      <edge source="example" target="fountain" id="1183" weight="0.9924356341362" />
+      <edge source="example" target="ad" id="1184" weight="0.9923939108848572" />
+      <edge source="example" target="letters" id="1185" weight="0.9921935796737671" />
+      <edge source="example" target="hannan" id="1186" weight="0.9920614957809448" />
+      <edge source="example" target="clinic" id="1187" weight="0.9919987320899963" />
+      <edge source="example" target="starting" id="1188" weight="0.9919964671134949" />
+      <edge source="example" target="sheer" id="1189" weight="0.9916714429855347" />
+      <edge source="example" target="thank" id="1190" weight="0.9916555285453796" />
+      <edge source="example" target="bakan" id="1191" weight="0.9915980100631714" />
+      <edge source="example" target="protests" id="1192" weight="0.9915332794189453" />
+      <edge source="example" target="leader" id="1193" weight="0.9914953112602234" />
+      <edge source="example" target="warning" id="1194" weight="0.9914524555206299" />
+      <edge source="example" target="publishing" id="1195" weight="0.9914097785949707" />
+      <edge source="example" target="seamec" id="1196" weight="0.9911459684371948" />
+      <edge source="example" target="written" id="1197" weight="0.9910515546798706" />
+      <edge source="example" target="orme" id="1198" weight="0.9907806515693665" />
+      <edge source="example" target="miami" id="1199" weight="0.990694522857666" />
+      <edge source="house" target="senator" id="1200" weight="0.9934441447257996" />
+      <edge source="house" target="liquor" id="1201" weight="0.9912112951278687" />
+      <edge source="house" target="journal" id="1202" weight="0.9907376766204834" />
+      <edge source="house" target="states" id="1203" weight="0.9900628328323364" />
+      <edge source="house" target="pete" id="1204" weight="0.9898292422294617" />
+      <edge source="house" target="francis" id="1205" weight="0.9897778630256653" />
+      <edge source="house" target="hospital" id="1206" weight="0.988314151763916" />
+      <edge source="house" target="amusement" id="1207" weight="0.9876502752304077" />
+      <edge source="house" target="walla" id="1208" weight="0.9870598316192627" />
+      <edge source="house" target="code" id="1209" weight="0.9865856170654297" />
+      <edge source="house" target="study" id="1210" weight="0.9861825108528137" />
+      <edge source="house" target="gaylord" id="1211" weight="0.985936164855957" />
+      <edge source="house" target="uphold" id="1212" weight="0.9854599237442017" />
+      <edge source="house" target="diversity" id="1213" weight="0.9850410223007202" />
+      <edge source="house" target="eastern" id="1214" weight="0.9843363761901855" />
+      <edge source="house" target="engineered" id="1215" weight="0.9841301441192627" />
+      <edge source="house" target="degree" id="1216" weight="0.9840317368507385" />
+      <edge source="house" target="mcdermott" id="1217" weight="0.9839065670967102" />
+      <edge source="house" target="sen" id="1218" weight="0.9838351011276245" />
+      <edge source="house" target="legislature" id="1219" weight="0.9837121367454529" />
+      <edge source="house" target="inspectors" id="1220" weight="0.983253002166748" />
+      <edge source="house" target="cotterill" id="1221" weight="0.982868492603302" />
+      <edge source="house" target="judiciary" id="1222" weight="0.982467770576477" />
+      <edge source="house" target="adopted" id="1223" weight="0.9823595881462097" />
+      <edge source="house" target="signed" id="1224" weight="0.9820898771286011" />
+    </edges>
+  </graph>
+</gexf>
