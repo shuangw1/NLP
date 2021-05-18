@@ -1,19 +1,20 @@
 # Place context analysis using Natural Language Processing
 ### :hammer: Exercise
-In this exercise, I am using Natural Language Processing to explore a book author's sense of place about Seattle. The tutorial can be found here https://github.com/jakobzhao/geog595/blob/master/06_ai/pe.md
+In this exercise, I use Natural Language Processing packages to explore a book Gay Seattle - author's sense of place about Seattle.  I used a parser to parse out the pdf files of the book, then use the NLP packages to do the language analysis.
 
-Wordcloud:
+I then geocode the place names and map them in QGIS. The result is as follows. We can see where people are discussing this issue.
+Spatial dimension of sense of place:
 ![](/assets/gay-seattle/06-points.png)
 
+We then use Gephi to map the social connections of those terms.
+Social Network analysis:
 ![](/assets/gay-seattle/06-network.png)
 
+Finally, we use word embeddings to generate this graph.
+Word Embeddings:
 ![](/assets/gay-seattle/06-snake.png)
 
-We can see key keywords such as e-commerce, agriculture and business appreard very often in this case. There were also discusssion about ecosystem and climate change which are emergent environmental concerns. Some new words such as agri-tech emerged. Also we see the hot key word such as Covid-19 and Blockchain. Also there were a few discussions about cross-boundary/international trade during this pandemic era.
+Notes: because the `gensim` package has been updated to the most recent version, in the python scripts, we changed `model.wv.vocab` to `model.wv.index_to_key`
+Reference: https://stackoverflow.com/questions/66868221/gensim-3-8-0-to-gensim-4-0-0
 
-- geosearch: This python crawler collected twitter data using the twitter API tool in this case. I set the `time limit`to 60 to parse the data, and `time sleep`to 5 to mimic the behavior of a human.
-
-Location are bounded to US, and I got 2831 tweets. The output was saved as csv in the assest folder.
-
-
-Reference Link [https://github.com/jakobzhao/geog595/tree/master/03_bot]
+Reference tutorial can be found here: https://github.com/jakobzhao/geog595/blob/master/06_ai/pe.md.
