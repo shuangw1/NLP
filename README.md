@@ -4,15 +4,15 @@ In this exercise, I use Natural Language Processing packages to explore a book G
 
 I then geocode the place names and map them in QGIS. The result is as follows. We can see where people are discussing this issue.
 Spatial dimension of sense of place:
-![](/assets/gay-seattle/06-points.png)
+![](/assets/06-points.png)
 
 We then use Gephi to map the social connections of those terms.
 Social Network analysis:
-![](/assets/gay-seattle/06-network.png)
+![](/assets/06-network.png)
 
 Finally, we use word embeddings to generate this graph.
 Word Embeddings:
-![](/assets/gay-seattle/06-snake.png)
+![](/assets/06-snake.png)
 
 Notes: because the `gensim` package has been updated to the most recent version, in the python scripts, we changed `model.wv.vocab` to `model.wv.index_to_key`
 Reference: https://stackoverflow.com/questions/66868221/gensim-3-8-0-to-gensim-4-0-0
